@@ -1,0 +1,1001 @@
+user_id,age,gender,height_cm,weight_kg,activity_level,fitness_goal,medical_conditions,dietary_preferences,bmi,bmr,daily_calories
+1,40,Male,166,68,Moderately Active,Muscle Gain,None,Vegan,24.677021338365513,1522.5,2359
+2,33,Female,171,48,Moderately Active,Maintenance,None,None,16.415307274033037,1222.75,1895
+3,42,Male,156,56,Very Active,Endurance,Diabetes,Vegan,23.011176857330703,1330.0,2294
+4,53,Female,160,54,Sedentary,Maintenance,None,None,21.093749999999996,1114.0,1336
+5,32,Male,182,73,Sedentary,Maintenance,Diabetes,None,22.03840115928028,1712.5,2055
+6,32,Male,163,71,Moderately Active,Weight Loss,Hypertension,Vegan,26.722872520606725,1573.75,2439
+7,53,Male,159,59,Very Active,Endurance,None,None,23.337684427040067,1323.75,2283
+8,44,Male,175,72,Lightly Active,Muscle Gain,None,None,23.510204081632654,1598.75,2198
+9,29,Female,181,61,Lightly Active,Maintenance,None,None,18.619700253350018,1435.25,1973
+10,41,Male,177,65,Very Active,Muscle Gain,None,None,20.747550193111813,1556.25,2684
+11,29,Female,179,95,Moderately Active,Weight Loss,Hypertension,Vegetarian,29.64951156330951,1762.75,2732
+12,29,Male,162,90,Sedentary,Weight Loss,Hypertension,Gluten-Free,34.293552812071326,1772.5,2127
+13,37,Male,155,50,Very Active,Endurance,None,None,20.811654526534856,1288.75,2223
+14,18,Male,185,82,Lightly Active,Weight Loss,None,Vegetarian,23.959094229364496,1891.25,2600
+15,18,Female,166,82,Lightly Active,Weight Loss,Heart Disease,Vegetarian,29.757584555087824,1606.5,2208
+16,28,Male,167,52,Lightly Active,Muscle Gain,Heart Disease,None,18.645344042454013,1428.75,1964
+17,22,Female,183,82,Moderately Active,Weight Loss,None,None,24.48565200513601,1692.75,2623
+18,38,Female,175,93,Lightly Active,Weight Loss,None,Keto,30.367346938775512,1672.75,2300
+19,24,Female,174,53,Very Active,Maintenance,None,Vegan,17.50561500858766,1336.5,2305
+20,18,Female,191,56,Very Active,Weight Loss,Heart Disease,Vegetarian,15.350456401962665,1502.75,2592
+21,52,Female,163,85,Lightly Active,Maintenance,None,Vegetarian,31.992171327486922,1447.75,1990
+22,32,Female,179,74,Very Active,Weight Loss,None,None,23.095409007209515,1537.75,2652
+23,35,Female,170,78,Lightly Active,Weight Loss,None,Vegetarian,26.989619377162633,1506.5,2071
+24,18,Female,172,75,Lightly Active,Endurance,None,Vegetarian,25.351541373715524,1574.0,2164
+25,28,Female,185,75,Sedentary,Endurance,None,Vegetarian,21.913805697589478,1605.25,1926
+26,36,Male,175,50,Moderately Active,Maintenance,Heart Disease,None,16.3265306122449,1418.75,2199
+27,21,Male,175,85,Moderately Active,Weight Loss,None,None,27.755102040816325,1843.75,2857
+28,39,Male,180,87,Sedentary,Muscle Gain,None,None,26.85185185185185,1805.0,2166
+29,27,Male,166,66,Sedentary,Endurance,None,Keto,23.95122659311947,1567.5,1881
+30,31,Male,161,69,Moderately Active,Muscle Gain,None,None,26.61934338952972,1546.25,2396
+31,27,Female,159,47,Lightly Active,Endurance,None,None,18.59103674696412,1167.75,1605
+32,57,Female,150,77,Lightly Active,Endurance,None,None,34.22222222222222,1261.5,1734
+33,34,Female,190,78,Moderately Active,Weight Loss,None,None,21.606648199445985,1636.5,2536
+34,22,Female,158,69,Lightly Active,Endurance,None,Vegan,27.639801313892,1406.5,1933
+35,44,Female,167,86,Sedentary,Muscle Gain,None,Vegetarian,30.83653053175087,1522.75,1827
+36,20,Female,167,64,Lightly Active,Endurance,None,Vegetarian,22.948115744558788,1422.75,1956
+37,37,Female,173,78,Lightly Active,Maintenance,Heart Disease,None,26.061679307694877,1515.25,2083
+38,18,Male,178,54,Very Active,Weight Loss,Heart Disease,Vegan,17.043302613306402,1567.5,2703
+39,19,Male,178,69,Very Active,Weight Loss,None,None,21.777553339224845,1712.5,2954
+40,37,Male,164,67,Very Active,Maintenance,None,None,24.910767400356935,1515.0,2613
+41,43,Male,168,73,Lightly Active,Maintenance,Heart Disease,None,25.86451247165533,1570.0,2158
+42,37,Female,172,64,Moderately Active,Maintenance,None,None,21.63331530557058,1369.0,2121
+43,33,Female,167,68,Sedentary,Endurance,Hypertension,None,24.38237297859371,1397.75,1677
+44,31,Female,186,82,Lightly Active,Weight Loss,Heart Disease,Vegetarian,23.702162099664697,1666.5,2291
+45,18,Male,174,63,Moderately Active,Maintenance,None,Vegetarian,20.808561236623067,1632.5,2530
+46,26,Female,177,45,Lightly Active,Endurance,None,Gluten-Free,14.363688595231254,1265.25,1739
+47,29,Female,176,96,Sedentary,Maintenance,Heart Disease,None,30.991735537190085,1754.0,2104
+48,47,Female,181,90,Lightly Active,Muscle Gain,None,None,27.471688898385274,1635.25,2248
+49,39,Male,171,50,Sedentary,Muscle Gain,None,None,17.09927841045108,1378.75,1654
+50,18,Female,157,80,Lightly Active,Weight Loss,None,Keto,32.45567771512029,1530.25,2104
+51,38,Male,173,62,Sedentary,Endurance,None,Vegetarian,20.715693808680545,1516.25,1819
+52,30,Male,163,73,Lightly Active,Muscle Gain,None,Vegan,27.475629493018182,1603.75,2205
+53,26,Male,164,74,Sedentary,Muscle Gain,Diabetes,None,27.513384889946465,1640.0,1968
+54,42,Male,175,66,Very Active,Endurance,Heart Disease,Vegetarian,21.551020408163264,1548.75,2671
+55,47,Female,182,58,Lightly Active,Maintenance,None,None,17.509962564907617,1321.5,1817
+56,46,Male,170,59,Lightly Active,Endurance,None,Vegetarian,20.41522491349481,1427.5,1962
+57,24,Male,173,56,Moderately Active,Maintenance,None,Keto,18.710949246550168,1526.25,2365
+58,31,Female,187,57,Moderately Active,Muscle Gain,None,Keto,16.300151562812776,1422.75,2205
+59,38,Female,172,68,Sedentary,Muscle Gain,None,Vegetarian,22.985397512168742,1404.0,1684
+60,46,Male,196,59,Lightly Active,Muscle Gain,Heart Disease,None,15.358184089962517,1590.0,2186
+61,29,Female,175,80,Sedentary,Weight Loss,Hypertension,Keto,26.122448979591837,1587.75,1905
+62,32,Male,152,92,Very Active,Weight Loss,None,Vegetarian,39.81994459833795,1715.0,2958
+63,21,Male,177,61,Moderately Active,Weight Loss,None,None,19.4707778735357,1616.25,2505
+64,20,Male,173,73,Sedentary,Endurance,None,None,24.3910588392529,1716.25,2059
+65,44,Male,182,77,Sedentary,Muscle Gain,None,None,23.24598478444632,1692.5,2031
+66,51,Female,176,77,Moderately Active,Muscle Gain,None,None,24.857954545454547,1454.0,2253
+67,34,Male,168,71,Lightly Active,Endurance,None,None,25.15589569160998,1595.0,2193
+68,47,Female,157,81,Sedentary,Weight Loss,Heart Disease,Vegetarian,32.86137368655929,1395.25,1674
+69,39,Female,167,77,Moderately Active,Endurance,None,None,27.60945175517229,1457.75,2259
+70,27,Female,161,51,Lightly Active,Weight Loss,None,None,19.675166853130666,1220.25,1677
+71,39,Female,164,83,Very Active,Muscle Gain,Diabetes,Vegetarian,30.859607376561577,1499.0,2585
+72,53,Male,175,83,Moderately Active,Maintenance,None,Gluten-Free,27.102040816326532,1663.75,2578
+73,34,Female,186,58,Sedentary,Weight Loss,None,Vegetarian,16.76494392415308,1411.5,1693
+74,53,Male,173,70,Very Active,Muscle Gain,None,None,23.38868655818771,1521.25,2624
+75,18,Female,158,80,Lightly Active,Muscle Gain,None,Keto,32.046146450889275,1536.5,2112
+76,44,Female,174,66,Lightly Active,Maintenance,Diabetes,Keto,21.79944510503369,1366.5,1878
+77,36,Male,181,86,Moderately Active,Muscle Gain,None,None,26.25072494734593,1816.25,2815
+78,31,Male,163,105,Moderately Active,Muscle Gain,Diabetes,None,39.51974105160149,1918.75,2974
+79,36,Male,168,58,Moderately Active,Weight Loss,None,Vegan,20.549886621315196,1455.0,2255
+80,18,Female,170,49,Lightly Active,Weight Loss,None,Gluten-Free,16.955017301038065,1301.5,1789
+81,32,Female,162,74,Very Active,Maintenance,Hypertension,Keto,28.19692120103642,1431.5,2469
+82,39,Male,176,80,Lightly Active,Maintenance,None,Gluten-Free,25.826446280991735,1710.0,2351
+83,52,Male,168,66,Sedentary,Muscle Gain,None,Vegetarian,23.384353741496604,1455.0,1746
+84,28,Male,174,91,Lightly Active,Weight Loss,None,Vegetarian,30.056810675122207,1862.5,2560
+85,25,Male,161,49,Sedentary,Maintenance,None,None,18.90359168241966,1376.25,1651
+86,28,Female,165,80,Very Active,Maintenance,None,None,29.384756657483933,1530.25,2639
+87,45,Male,177,60,Moderately Active,Endurance,None,None,19.15158479364167,1486.25,2303
+88,38,Male,166,95,Moderately Active,Maintenance,None,Vegetarian,34.47525039918711,1802.5,2793
+89,28,Male,187,99,Lightly Active,Muscle Gain,None,Vegetarian,28.310789556464293,2023.75,2782
+90,41,Male,166,58,Moderately Active,Weight Loss,Heart Disease,Vegan,21.04804761213529,1417.5,2197
+91,36,Female,172,61,Very Active,Maintenance,None,None,20.61925365062196,1344.0,2318
+92,46,Male,179,82,Moderately Active,Endurance,Hypertension,Vegetarian,25.592209980961893,1713.75,2656
+93,26,Female,155,64,Lightly Active,Weight Loss,None,None,26.638917793964616,1317.75,1811
+94,31,Male,152,69,Very Active,Maintenance,None,None,29.864958448753463,1490.0,2570
+95,30,Male,154,70,Sedentary,Endurance,Hypertension,Vegan,29.515938606847698,1517.5,1821
+96,18,Female,182,45,Lightly Active,Maintenance,None,Vegetarian,13.58531578311798,1336.5,1837
+97,38,Male,164,69,Sedentary,Weight Loss,Diabetes,Keto,25.654372397382513,1530.0,1836
+98,38,Female,195,59,Very Active,Weight Loss,None,None,15.516107823800132,1457.75,2514
+99,35,Female,164,62,Lightly Active,Weight Loss,None,None,23.051754907792983,1309.0,1799
+100,32,Male,171,91,Lightly Active,Muscle Gain,None,None,31.120686707020965,1823.75,2507
+101,18,Female,185,51,Very Active,Maintenance,None,None,14.901387874360847,1415.25,2441
+102,29,Female,190,82,Moderately Active,Muscle Gain,Hypertension,Gluten-Free,22.714681440443215,1701.5,2637
+103,30,Female,190,65,Lightly Active,Weight Loss,None,Vegetarian,18.005540166204987,1526.5,2098
+104,25,Female,182,65,Lightly Active,Endurance,Heart Disease,Gluten-Free,19.623233908948194,1501.5,2064
+105,33,Female,180,81,Sedentary,Maintenance,Heart Disease,None,25.0,1609.0,1930
+106,39,Female,175,75,Moderately Active,Muscle Gain,None,Gluten-Free,24.489795918367346,1487.75,2306
+107,57,Female,177,78,Sedentary,Maintenance,None,None,24.897060231734173,1440.25,1728
+108,37,Female,164,84,Sedentary,Endurance,Hypertension,Gluten-Free,31.231409875074366,1519.0,1822
+109,38,Male,161,65,Moderately Active,Muscle Gain,Heart Disease,None,25.076193048107708,1471.25,2280
+110,34,Male,169,60,Moderately Active,Weight Loss,None,None,21.007667798746546,1491.25,2311
+111,18,Female,168,53,Very Active,Muscle Gain,None,Vegetarian,18.77834467120182,1329.0,2292
+112,34,Male,165,57,Moderately Active,Maintenance,None,Keto,20.936639118457304,1436.25,2226
+113,35,Female,176,114,Lightly Active,Maintenance,None,None,36.80268595041323,1904.0,2618
+114,64,Female,179,88,Moderately Active,Maintenance,None,None,27.46481071127618,1517.75,2352
+115,32,Male,170,49,Very Active,Maintenance,Diabetes,Gluten-Free,16.955017301038065,1397.5,2410
+116,38,Female,184,50,Very Active,Weight Loss,None,None,14.768431001890358,1299.0,2240
+117,34,Female,158,77,Very Active,Muscle Gain,None,None,30.844415958980928,1426.5,2460
+118,20,Female,168,78,Moderately Active,Weight Loss,None,None,27.636054421768712,1569.0,2431
+119,48,Female,162,78,Moderately Active,Weight Loss,None,None,29.721079103795148,1391.5,2156
+120,44,Male,151,66,Sedentary,Weight Loss,None,Keto,28.946098855313362,1388.75,1666
+121,44,Female,169,68,Sedentary,Maintenance,None,Vegan,23.80869017191275,1355.25,1626
+122,24,Female,168,74,Lightly Active,Maintenance,None,Vegetarian,26.218820861678008,1509.0,2074
+123,51,Female,185,71,Sedentary,Maintenance,None,Keto,20.74506939371804,1450.25,1740
+124,18,Male,176,45,Lightly Active,Muscle Gain,None,None,14.527376033057852,1465.0,2014
+125,42,Female,159,66,Very Active,Endurance,Heart Disease,None,26.106562240417702,1282.75,2212
+126,61,Male,188,57,Sedentary,Maintenance,None,None,16.127206880941603,1445.0,1734
+127,23,Male,182,72,Moderately Active,Muscle Gain,None,None,21.736505252988767,1747.5,2708
+128,28,Female,175,114,Sedentary,Maintenance,None,None,37.224489795918366,1932.75,2319
+129,36,Female,167,75,Lightly Active,Maintenance,Heart Disease,Keto,26.89232313815483,1452.75,1997
+130,28,Male,160,65,Sedentary,Weight Loss,None,Vegan,25.390624999999996,1515.0,1818
+131,18,Female,166,83,Very Active,Weight Loss,None,None,30.120481927710845,1616.5,2788
+132,35,Male,180,77,Moderately Active,Weight Loss,Diabetes,Vegetarian,23.76543209876543,1725.0,2673
+133,22,Male,188,76,Lightly Active,Muscle Gain,None,Vegan,21.50294250792214,1830.0,2516
+134,40,Female,185,79,Moderately Active,Endurance,None,Keto,23.08254200146092,1585.25,2457
+135,23,Female,165,100,Moderately Active,Endurance,None,Gluten-Free,36.73094582185492,1755.25,2720
+136,53,Male,158,53,Lightly Active,Muscle Gain,None,Vegetarian,21.230572023714146,1257.5,1729
+137,25,Male,171,77,Moderately Active,Maintenance,None,Vegan,26.332888752094664,1718.75,2664
+138,31,Male,152,56,Moderately Active,Muscle Gain,Diabetes,Vegetarian,24.238227146814403,1360.0,2108
+139,44,Male,173,78,Sedentary,Maintenance,None,Vegetarian,26.061679307694877,1646.25,1975
+140,20,Female,168,56,Moderately Active,Muscle Gain,Hypertension,None,19.841269841269845,1349.0,2090
+141,37,Female,165,63,Moderately Active,Muscle Gain,None,None,23.140495867768596,1315.25,2038
+142,50,Female,154,65,Moderately Active,Muscle Gain,Hypertension,Vegetarian,27.40765727778715,1201.5,1862
+143,18,Female,175,84,Moderately Active,Endurance,None,None,27.428571428571427,1682.75,2608
+144,37,Female,164,83,Lightly Active,Weight Loss,None,None,30.859607376561577,1509.0,2074
+145,38,Male,158,51,Very Active,Muscle Gain,None,Vegan,20.429418362441915,1312.5,2264
+146,44,Female,150,70,Sedentary,Endurance,Heart Disease,None,31.11111111111111,1256.5,1507
+147,20,Female,169,59,Moderately Active,Weight Loss,None,Vegetarian,20.65754000210077,1385.25,2147
+148,19,Female,187,51,Moderately Active,Weight Loss,None,Vegetarian,14.584346135148271,1422.75,2205
+149,41,Female,186,66,Lightly Active,Muscle Gain,None,Keto,19.07734998265695,1456.5,2002
+150,38,Female,165,65,Very Active,Maintenance,None,None,23.875114784205696,1330.25,2294
+151,38,Male,163,106,Moderately Active,Maintenance,None,None,39.89611953780722,1893.75,2935
+152,39,Male,174,76,Lightly Active,Maintenance,None,Vegetarian,25.102391333069097,1657.5,2279
+153,26,Male,160,49,Sedentary,Muscle Gain,None,Gluten-Free,19.140624999999996,1365.0,1638
+154,37,Female,173,61,Sedentary,Maintenance,None,Keto,20.381569714992146,1345.25,1614
+155,38,Male,177,85,Moderately Active,Endurance,None,None,27.13141179099237,1771.25,2745
+156,26,Male,182,101,Moderately Active,Endurance,None,None,30.491486535442576,2022.5,3134
+157,57,Female,168,46,Very Active,Endurance,Diabetes,Keto,16.298185941043087,1064.0,1835
+158,40,Female,167,45,Very Active,Endurance,None,None,16.1353938828929,1132.75,1953
+159,20,Female,161,98,Moderately Active,Weight Loss,None,Vegetarian,37.80718336483932,1725.25,2674
+160,42,Male,161,75,Lightly Active,Endurance,None,None,28.93406890166274,1551.25,2132
+161,23,Male,167,56,Very Active,Maintenance,Heart Disease,None,20.07960127648894,1493.75,2576
+162,44,Female,173,78,Moderately Active,Muscle Gain,Heart Disease,None,26.061679307694877,1480.25,2294
+163,48,Female,179,45,Very Active,Maintenance,Hypertension,None,14.044505477357136,1167.75,2014
+164,25,Male,161,70,Moderately Active,Endurance,None,Vegetarian,27.005130974885226,1586.25,2458
+165,46,Male,184,74,Sedentary,Weight Loss,None,Keto,21.85727788279773,1665.0,1998
+166,39,Female,167,83,Moderately Active,Endurance,None,None,29.760837606224676,1517.75,2352
+167,44,Female,169,54,Sedentary,Muscle Gain,None,Gluten-Free,18.906901018871892,1215.25,1458
+168,57,Male,162,71,Very Active,Maintenance,None,None,27.053802773967377,1442.5,2488
+169,32,Female,150,56,Moderately Active,Muscle Gain,Diabetes,Vegetarian,24.88888888888889,1176.5,1823
+170,25,Male,178,73,Very Active,Muscle Gain,Hypertension,None,23.04002019946976,1722.5,2971
+171,24,Male,177,56,Sedentary,Muscle Gain,Hypertension,Keto,17.87481247406556,1551.25,1861
+172,25,Male,167,63,Moderately Active,Maintenance,None,Vegan,22.589551436050055,1553.75,2408
+173,34,Male,170,55,Very Active,Endurance,None,Vegetarian,19.031141868512112,1447.5,2496
+174,39,Female,175,79,Sedentary,Muscle Gain,None,Gluten-Free,25.79591836734694,1527.75,1833
+175,38,Female,154,82,Very Active,Maintenance,None,Vegetarian,34.57581379659302,1431.5,2469
+176,44,Male,164,66,Lightly Active,Weight Loss,Diabetes,Keto,24.538964901844146,1470.0,2021
+177,35,Male,177,70,Sedentary,Maintenance,None,Vegan,22.34351559258195,1636.25,1963
+178,52,Male,157,48,Sedentary,Weight Loss,None,Keto,19.473406629072173,1206.25,1447
+179,31,Male,172,65,Sedentary,Maintenance,None,Vegetarian,21.971335857220122,1575.0,1890
+180,67,Male,156,69,Moderately Active,Endurance,None,None,28.353057199211044,1335.0,2069
+181,42,Female,174,109,Moderately Active,Muscle Gain,Diabetes,Vegetarian,36.00211388558594,1806.5,2800
+182,24,Female,169,53,Moderately Active,Endurance,None,None,18.556773222226116,1305.25,2023
+183,22,Female,153,91,Lightly Active,Maintenance,Hypertension,Vegetarian,38.87393737451408,1595.25,2193
+184,40,Female,181,84,Lightly Active,Muscle Gain,None,None,25.640242971826257,1610.25,2214
+185,32,Male,162,74,Sedentary,Weight Loss,None,Vegetarian,28.19692120103642,1597.5,1917
+186,43,Male,161,96,Lightly Active,Maintenance,Diabetes,None,37.03560819412831,1756.25,2414
+187,40,Male,172,75,Very Active,Muscle Gain,None,None,25.351541373715524,1630.0,2811
+188,34,Male,181,75,Sedentary,Weight Loss,Heart Disease,None,22.89307408198773,1716.25,2059
+189,24,Male,159,69,Sedentary,Weight Loss,None,Keto,27.29322416043669,1568.75,1882
+190,18,Female,170,88,Very Active,Endurance,None,None,30.449826989619382,1691.5,2917
+191,29,Male,174,86,Sedentary,Maintenance,None,None,28.405337561104506,1807.5,2169
+192,45,Female,176,60,Lightly Active,Weight Loss,Heart Disease,Vegan,19.369834710743802,1314.0,1806
+193,37,Female,171,50,Moderately Active,Muscle Gain,None,Vegetarian,17.09927841045108,1222.75,1895
+194,20,Female,166,66,Very Active,Weight Loss,Diabetes,None,23.95122659311947,1436.5,2477
+195,37,Female,161,57,Lightly Active,Weight Loss,None,None,21.98989236526368,1230.25,1691
+196,39,Male,170,69,Very Active,Endurance,None,None,23.87543252595156,1562.5,2695
+197,24,Female,159,88,Very Active,Endurance,None,Keto,34.80874965389027,1592.75,2747
+198,36,Female,150,63,Sedentary,Muscle Gain,None,None,28.0,1226.5,1471
+199,35,Female,174,69,Sedentary,Endurance,None,None,22.79032897344431,1441.5,1729
+200,21,Male,179,70,Lightly Active,Weight Loss,Hypertension,None,21.847008520333322,1718.75,2363
+201,39,Male,150,82,Very Active,Weight Loss,None,None,36.44444444444444,1567.5,2703
+202,41,Male,159,45,Sedentary,Endurance,None,Vegan,17.799928800284796,1243.75,1492
+203,47,Female,176,60,Sedentary,Weight Loss,None,None,19.369834710743802,1304.0,1564
+204,47,Female,190,73,Very Active,Weight Loss,None,None,20.221606648199447,1521.5,2624
+205,18,Male,170,88,Lightly Active,Muscle Gain,None,None,30.449826989619382,1857.5,2554
+206,23,Female,162,62,Lightly Active,Endurance,None,None,23.624447492760247,1356.5,1865
+207,41,Male,168,45,Very Active,Weight Loss,None,None,15.94387755102041,1300.0,2242
+208,41,Male,183,79,Lightly Active,Endurance,None,Gluten-Free,23.589835468362743,1733.75,2383
+209,41,Female,163,60,Sedentary,Muscle Gain,None,Vegan,22.582709172343712,1252.75,1503
+210,80,Female,162,52,Very Active,Endurance,None,Keto,19.81405273586343,971.5,1675
+211,41,Female,165,60,Sedentary,Weight Loss,None,Gluten-Free,22.03856749311295,1265.25,1518
+212,48,Female,160,67,Moderately Active,Endurance,None,Vegetarian,26.171874999999996,1269.0,1966
+213,46,Male,171,60,Moderately Active,Weight Loss,None,None,20.519134092541297,1443.75,2237
+214,42,Male,186,45,Lightly Active,Weight Loss,Heart Disease,Vegan,13.007284079084286,1407.5,1935
+215,31,Male,173,83,Moderately Active,Weight Loss,Hypertension,Gluten-Free,27.732299776136855,1761.25,2729
+216,44,Male,167,89,Sedentary,Muscle Gain,Diabetes,Vegan,31.912223457277065,1718.75,2062
+217,25,Male,167,79,Moderately Active,Endurance,None,Vegetarian,28.326580372189753,1713.75,2656
+218,32,Female,154,52,Sedentary,Muscle Gain,Diabetes,None,21.926125822229718,1161.5,1393
+219,29,Male,178,66,Lightly Active,Endurance,Hypertension,Gluten-Free,20.830703194041156,1632.5,2244
+220,35,Male,169,69,Lightly Active,Muscle Gain,Diabetes,Vegan,24.158817968558527,1576.25,2167
+221,62,Male,168,78,Sedentary,Maintenance,None,Keto,27.636054421768712,1525.0,1830
+222,18,Female,200,80,Moderately Active,Weight Loss,None,None,20.0,1799.0,2788
+223,43,Female,172,58,Lightly Active,Weight Loss,Hypertension,None,19.60519199567334,1279.0,1758
+224,18,Female,162,71,Very Active,Muscle Gain,None,None,27.053802773967377,1471.5,2538
+225,29,Female,165,76,Lightly Active,Maintenance,None,Vegan,27.915518824609737,1485.25,2042
+226,48,Male,181,91,Moderately Active,Weight Loss,None,None,27.776929886145112,1806.25,2799
+227,35,Male,171,80,Very Active,Endurance,None,None,27.358845456721728,1698.75,2930
+228,22,Female,155,81,Moderately Active,Muscle Gain,None,Keto,33.71488033298647,1507.75,2337
+229,26,Female,179,71,Sedentary,Weight Loss,None,None,22.15910864205237,1537.75,1845
+230,43,Male,163,91,Very Active,Weight Loss,None,Gluten-Free,34.25044224472129,1718.75,2964
+231,26,Male,188,76,Moderately Active,Muscle Gain,None,None,21.50294250792214,1810.0,2805
+232,37,Female,180,57,Very Active,Muscle Gain,None,Gluten-Free,17.59259259259259,1349.0,2327
+233,35,Female,165,91,Moderately Active,Endurance,None,Vegetarian,33.425160697887975,1605.25,2488
+234,27,Female,182,80,Very Active,Endurance,None,Keto,24.151672503320853,1641.5,2831
+235,60,Female,170,63,Moderately Active,Weight Loss,None,Keto,21.79930795847751,1231.5,1908
+236,42,Male,178,62,Sedentary,Weight Loss,Diabetes,None,19.568236333796236,1527.5,1833
+237,18,Male,174,74,Very Active,Muscle Gain,None,None,24.441802087462015,1742.5,3005
+238,37,Male,161,76,Very Active,Weight Loss,None,None,29.319856487018246,1586.25,2736
+239,27,Female,163,72,Very Active,Weight Loss,None,Vegetarian,27.09925100681245,1442.75,2488
+240,45,Female,180,74,Very Active,Muscle Gain,Hypertension,Gluten-Free,22.839506172839506,1479.0,2551
+241,25,Male,166,95,Sedentary,Weight Loss,None,None,34.47525039918711,1867.5,2241
+242,33,Male,165,86,Very Active,Weight Loss,None,Vegetarian,31.58861340679523,1731.25,2986
+243,41,Male,160,72,Lightly Active,Maintenance,None,None,28.124999999999993,1520.0,2090
+244,45,Male,174,84,Sedentary,Endurance,None,Gluten-Free,27.74474831549742,1707.5,2049
+245,20,Female,190,54,Lightly Active,Muscle Gain,Hypertension,Keto,14.958448753462605,1466.5,2016
+246,30,Male,159,75,Very Active,Maintenance,Hypertension,None,29.666548000474663,1598.75,2757
+247,29,Male,170,97,Moderately Active,Endurance,None,None,33.564013840830455,1892.5,2933
+248,27,Male,184,66,Lightly Active,Endurance,None,None,19.494328922495274,1680.0,2310
+249,56,Male,169,57,Very Active,Endurance,None,Vegetarian,19.95728440880922,1351.25,2330
+250,39,Male,174,60,Lightly Active,Maintenance,None,Vegetarian,19.817677368212443,1497.5,2059
+251,19,Male,159,53,Very Active,Maintenance,None,None,20.964360587002094,1433.75,2473
+252,46,Male,174,58,Very Active,Endurance,None,None,19.157088122605362,1442.5,2488
+253,60,Female,168,64,Very Active,Weight Loss,None,None,22.67573696145125,1229.0,2120
+254,47,Female,179,48,Moderately Active,Weight Loss,None,Vegetarian,14.980805842514279,1202.75,1864
+255,18,Female,181,70,Lightly Active,Maintenance,Heart Disease,Vegetarian,21.36686914318855,1580.25,2172
+256,29,Female,195,83,Sedentary,Maintenance,None,None,21.827744904667984,1742.75,2091
+257,50,Male,175,56,Sedentary,Maintenance,Hypertension,Vegan,18.285714285714285,1408.75,1690
+258,26,Female,173,92,Sedentary,Endurance,Diabetes,Vegan,30.73941661933242,1710.25,2052
+259,40,Female,171,77,Sedentary,Weight Loss,None,None,26.332888752094664,1477.75,1773
+260,44,Male,166,85,Very Active,Maintenance,Diabetes,None,30.84627667295689,1672.5,2885
+261,23,Male,173,60,Lightly Active,Maintenance,None,Vegan,20.04744562130375,1571.25,2160
+262,34,Female,167,82,Lightly Active,Muscle Gain,None,Keto,29.402273297715947,1532.75,2107
+263,18,Female,171,53,Moderately Active,Endurance,None,None,18.125235115078144,1347.75,2089
+264,22,Male,183,83,Lightly Active,Muscle Gain,Heart Disease,None,24.78425751739377,1868.75,2569
+265,31,Female,159,72,Lightly Active,Weight Loss,None,None,28.479886080455675,1397.75,1921
+266,20,Male,181,78,Lightly Active,Muscle Gain,None,Vegetarian,23.808797045267237,1816.25,2497
+267,54,Male,183,52,Moderately Active,Muscle Gain,Heart Disease,None,15.527486637403324,1398.75,2168
+268,18,Male,168,56,Sedentary,Muscle Gain,None,None,19.841269841269845,1525.0,1830
+269,29,Male,150,78,Lightly Active,Endurance,None,Vegetarian,34.666666666666664,1577.5,2169
+270,36,Female,163,55,Moderately Active,Weight Loss,Diabetes,Vegetarian,20.70081674131507,1227.75,1903
+271,52,Male,182,76,Moderately Active,Muscle Gain,Hypertension,None,22.944088878154812,1642.5,2545
+272,18,Male,169,49,Very Active,Endurance,Heart Disease,None,17.15626203564301,1461.25,2520
+273,48,Female,160,82,Moderately Active,Weight Loss,Heart Disease,Vegetarian,32.03124999999999,1419.0,2199
+274,35,Male,164,51,Sedentary,Maintenance,None,None,18.961927424152293,1365.0,1638
+275,23,Female,178,78,Lightly Active,Muscle Gain,Hypertension,None,24.61810377477591,1616.5,2222
+276,40,Female,175,79,Moderately Active,Weight Loss,None,Gluten-Free,25.79591836734694,1522.75,2360
+277,37,Female,167,59,Sedentary,Muscle Gain,None,None,21.15529420201513,1287.75,1545
+278,27,Male,166,78,Moderately Active,Maintenance,None,Vegan,28.305995064595734,1687.5,2615
+279,35,Female,166,73,Moderately Active,Weight Loss,None,Keto,26.491508201480624,1431.5,2218
+280,30,Female,160,61,Moderately Active,Endurance,Heart Disease,None,23.828124999999996,1299.0,2013
+281,36,Male,186,54,Moderately Active,Weight Loss,Heart Disease,None,15.608740894901143,1527.5,2367
+282,42,Female,166,45,Moderately Active,Endurance,None,Vegetarian,16.330381768036002,1116.5,1730
+283,54,Female,182,75,Sedentary,Weight Loss,None,Gluten-Free,22.6421929718633,1456.5,1747
+284,20,Female,185,46,Lightly Active,Endurance,None,Keto,13.440467494521547,1355.25,1863
+285,60,Female,179,71,Lightly Active,Maintenance,Hypertension,Vegan,22.15910864205237,1367.75,1880
+286,18,Female,165,66,Lightly Active,Maintenance,Diabetes,None,24.242424242424246,1440.25,1980
+287,33,Male,174,80,Lightly Active,Maintenance,None,Vegetarian,26.42356982428326,1727.5,2375
+288,42,Female,169,65,Sedentary,Weight Loss,None,None,22.758306781975424,1335.25,1602
+289,38,Female,160,65,Very Active,Maintenance,None,None,25.390624999999996,1299.0,2240
+290,27,Male,173,80,Very Active,Muscle Gain,None,None,26.729927495071667,1751.25,3020
+291,32,Male,158,75,Sedentary,Maintenance,Heart Disease,None,30.043262297708697,1582.5,1899
+292,29,Male,181,74,Sedentary,Endurance,None,Vegan,22.587833094227893,1731.25,2077
+293,27,Female,165,77,Moderately Active,Endurance,None,None,28.282828282828287,1505.25,2333
+294,45,Male,172,46,Moderately Active,Endurance,None,None,15.548945375878855,1315.0,2038
+295,39,Female,172,81,Moderately Active,Weight Loss,None,None,27.379664683612766,1529.0,2369
+296,26,Female,167,79,Lightly Active,Muscle Gain,Heart Disease,Gluten-Free,28.326580372189753,1542.75,2121
+297,45,Male,175,54,Moderately Active,Maintenance,None,Vegan,17.632653061224488,1413.75,2191
+298,38,Male,165,66,Very Active,Muscle Gain,None,None,24.242424242424246,1506.25,2598
+299,44,Female,178,69,Lightly Active,Muscle Gain,None,None,21.777553339224845,1421.5,1954
+300,42,Male,156,67,Moderately Active,Endurance,None,None,27.531229454306374,1440.0,2232
+301,25,Female,171,75,Lightly Active,Endurance,None,Keto,25.64891761567662,1532.75,2107
+302,28,Male,189,91,Very Active,Endurance,Diabetes,Vegetarian,25.475210660395845,1956.25,3374
+303,43,Male,159,86,Moderately Active,Weight Loss,None,Vegetarian,34.01764170721095,1643.75,2547
+304,42,Male,163,50,Very Active,Muscle Gain,None,Vegetarian,18.818924310286427,1313.75,2266
+305,34,Female,175,79,Very Active,Muscle Gain,None,None,25.79591836734694,1552.75,2678
+306,36,Male,171,89,Very Active,Weight Loss,None,Gluten-Free,30.436715570602924,1783.75,3076
+307,50,Female,173,75,Moderately Active,Weight Loss,None,Vegetarian,25.05930702662969,1420.25,2201
+308,27,Female,174,86,Sedentary,Weight Loss,None,None,28.405337561104506,1651.5,1981
+309,41,Female,176,100,Moderately Active,Muscle Gain,Hypertension,None,32.28305785123967,1734.0,2687
+310,32,Female,181,85,Very Active,Muscle Gain,Hypertension,Vegetarian,25.94548395958609,1660.25,2863
+311,32,Male,174,73,Moderately Active,Endurance,None,Keto,24.111507464658473,1662.5,2576
+312,48,Female,167,85,Very Active,Endurance,None,None,30.477966223242138,1492.75,2574
+313,44,Female,176,72,Sedentary,Muscle Gain,None,Gluten-Free,23.243801652892564,1439.0,1726
+314,44,Male,188,70,Lightly Active,Endurance,None,Vegan,19.805341783612494,1660.0,2282
+315,50,Female,168,64,Sedentary,Weight Loss,Hypertension,None,22.67573696145125,1279.0,1534
+316,35,Male,160,93,Sedentary,Maintenance,None,None,36.32812499999999,1760.0,2112
+317,43,Female,181,57,Lightly Active,Endurance,None,None,17.398736302310674,1325.25,1822
+318,31,Male,168,92,Moderately Active,Muscle Gain,Hypertension,Vegan,32.596371882086174,1820.0,2821
+319,38,Female,150,77,Lightly Active,Endurance,Hypertension,None,34.22222222222222,1356.5,1865
+320,33,Male,178,49,Moderately Active,Endurance,None,None,15.465219038000251,1442.5,2235
+321,36,Female,164,75,Moderately Active,Endurance,None,Vegetarian,27.885187388459254,1434.0,2222
+322,42,Female,169,45,Very Active,Maintenance,None,Vegan,15.75575084905991,1135.25,1958
+323,25,Male,173,79,Very Active,Weight Loss,None,None,26.395803401383272,1751.25,3020
+324,60,Male,171,83,Lightly Active,Muscle Gain,Heart Disease,None,28.384802161348794,1603.75,2205
+325,22,Male,177,61,Sedentary,Maintenance,Hypertension,None,19.4707778735357,1611.25,1933
+326,20,Male,165,71,Lightly Active,Muscle Gain,Diabetes,Vegetarian,26.07897153351699,1646.25,2263
+327,48,Female,175,99,Moderately Active,Muscle Gain,None,Gluten-Free,32.326530612244895,1682.75,2608
+328,44,Female,167,62,Very Active,Muscle Gain,Hypertension,None,22.230987127541326,1282.75,2212
+329,42,Male,177,54,Lightly Active,Maintenance,None,Gluten-Free,17.236426314277505,1441.25,1981
+330,42,Female,176,92,Lightly Active,Weight Loss,None,Vegetarian,29.700413223140497,1649.0,2267
+331,34,Male,160,99,Very Active,Muscle Gain,None,Vegetarian,38.67187499999999,1825.0,3148
+332,24,Male,180,70,Very Active,Weight Loss,None,Vegetarian,21.604938271604937,1710.0,2949
+333,35,Female,164,85,Very Active,Weight Loss,Diabetes,None,31.603212373587155,1539.0,2654
+334,26,Female,178,90,Moderately Active,Endurance,None,None,28.40550435551067,1721.5,2668
+335,46,Female,173,58,Very Active,Maintenance,None,Vegetarian,19.37919743392696,1270.25,2191
+336,33,Female,188,62,Sedentary,Maintenance,None,Vegetarian,17.54187415119964,1469.0,1762
+337,25,Female,167,88,Lightly Active,Endurance,None,Vegetarian,31.553659148768332,1637.75,2251
+338,31,Female,166,95,Very Active,Endurance,None,None,34.47525039918711,1671.5,2883
+339,39,Female,169,78,Very Active,Weight Loss,None,Keto,27.309968138370508,1480.25,2553
+340,28,Male,166,56,Moderately Active,Muscle Gain,Hypertension,Vegetarian,20.322252866889244,1462.5,2266
+341,25,Male,177,99,Moderately Active,Maintenance,None,None,31.600114909508758,1976.25,3063
+342,37,Male,153,62,Lightly Active,Muscle Gain,None,None,26.48553974966893,1396.25,1919
+343,37,Male,159,64,Sedentary,Muscle Gain,None,Vegan,25.315454293738377,1453.75,1744
+344,28,Male,159,75,Lightly Active,Endurance,Hypertension,Vegan,29.666548000474663,1608.75,2212
+345,29,Female,179,93,Very Active,Muscle Gain,None,None,29.025311319871417,1742.75,3006
+346,37,Male,187,82,Sedentary,Weight Loss,None,Gluten-Free,23.449340844748203,1808.75,2170
+347,18,Male,168,76,Sedentary,Endurance,None,None,26.92743764172336,1725.0,2070
+348,18,Male,168,76,Sedentary,Muscle Gain,None,None,26.92743764172336,1725.0,2070
+349,26,Male,170,70,Sedentary,Endurance,None,Gluten-Free,24.221453287197235,1637.5,1965
+350,32,Male,181,78,Lightly Active,Weight Loss,Diabetes,Gluten-Free,23.808797045267237,1756.25,2414
+351,38,Male,160,45,Moderately Active,Weight Loss,None,Vegetarian,17.578124999999996,1265.0,1960
+352,52,Male,172,65,Moderately Active,Muscle Gain,None,Gluten-Free,21.971335857220122,1470.0,2278
+353,45,Female,179,73,Very Active,Endurance,Diabetes,None,22.783308885490467,1462.75,2523
+354,33,Female,175,52,Moderately Active,Muscle Gain,None,Gluten-Free,16.979591836734695,1287.75,1996
+355,34,Male,171,75,Moderately Active,Muscle Gain,None,None,25.64891761567662,1653.75,2563
+356,22,Female,180,66,Moderately Active,Endurance,None,None,20.37037037037037,1514.0,2346
+357,34,Female,150,96,Moderately Active,Muscle Gain,None,None,42.666666666666664,1566.5,2428
+358,31,Female,176,93,Very Active,Weight Loss,None,None,30.023243801652892,1714.0,2956
+359,38,Female,163,63,Lightly Active,Endurance,None,None,23.711844630960897,1297.75,1784
+360,25,Male,151,67,Sedentary,Endurance,Hypertension,None,29.384676110696898,1493.75,1792
+361,41,Female,175,68,Moderately Active,Endurance,Heart Disease,None,22.20408163265306,1407.75,2182
+362,53,Female,183,63,Lightly Active,Endurance,None,None,18.812147272238644,1347.75,1853
+363,33,Female,168,72,Moderately Active,Muscle Gain,None,Vegetarian,25.510204081632658,1444.0,2238
+364,39,Male,179,58,Moderately Active,Muscle Gain,None,None,18.101807059704754,1508.75,2338
+365,43,Male,186,53,Sedentary,Weight Loss,Hypertension,None,15.31969013758816,1482.5,1779
+366,30,Male,183,79,Sedentary,Maintenance,None,Vegan,23.589835468362743,1788.75,2146
+367,37,Male,186,79,Sedentary,Maintenance,None,Gluten-Free,22.835009827725745,1772.5,2127
+368,35,Male,177,57,Moderately Active,Weight Loss,Diabetes,Vegan,18.194005553959588,1506.25,2334
+369,36,Male,170,83,Moderately Active,Maintenance,Diabetes,None,28.719723183391007,1717.5,2662
+370,25,Male,153,60,Moderately Active,Weight Loss,Hypertension,Vegan,25.63116749967961,1436.25,2226
+371,35,Female,167,73,Sedentary,Muscle Gain,None,None,26.175194521137367,1437.75,1725
+372,40,Female,161,82,Very Active,Endurance,Diabetes,None,31.634581999151262,1465.25,2527
+373,52,Female,191,69,Lightly Active,Endurance,Hypertension,None,18.91395520956114,1462.75,2011
+374,46,Male,168,76,Very Active,Muscle Gain,None,Gluten-Free,26.92743764172336,1585.0,2734
+375,60,Male,171,62,Moderately Active,Endurance,None,None,21.20310522895934,1393.75,2160
+376,25,Male,175,67,Moderately Active,Endurance,None,None,21.877551020408163,1643.75,2547
+377,45,Male,170,66,Very Active,Maintenance,Heart Disease,None,22.837370242214536,1502.5,2591
+378,37,Male,186,58,Moderately Active,Muscle Gain,None,Gluten-Free,16.76494392415308,1562.5,2421
+379,61,Female,163,67,Lightly Active,Maintenance,None,Vegetarian,25.21735857578381,1222.75,1681
+380,25,Female,171,46,Moderately Active,Maintenance,None,None,15.731336137614994,1242.75,1926
+381,24,Male,162,62,Lightly Active,Endurance,Diabetes,Vegetarian,23.624447492760247,1517.5,2086
+382,27,Male,156,65,Very Active,Endurance,None,Vegetarian,26.709401709401707,1495.0,2578
+383,18,Male,163,66,Very Active,Muscle Gain,None,Vegetarian,24.840980089578082,1593.75,2749
+384,28,Male,169,66,Moderately Active,Endurance,None,None,23.1084345786212,1581.25,2450
+385,25,Female,165,69,Lightly Active,Endurance,Heart Disease,Gluten-Free,25.344352617079892,1435.25,1973
+386,36,Male,163,77,Moderately Active,Muscle Gain,None,None,28.981143437841094,1613.75,2501
+387,39,Male,155,83,Sedentary,Endurance,None,Vegetarian,34.54734651404786,1608.75,1930
+388,57,Male,169,60,Sedentary,Maintenance,Diabetes,None,21.007667798746546,1376.25,1651
+389,46,Male,154,51,Sedentary,Muscle Gain,None,None,21.504469556417607,1247.5,1497
+390,28,Female,177,54,Sedentary,Endurance,Heart Disease,None,17.236426314277505,1345.25,1614
+391,24,Male,170,62,Moderately Active,Weight Loss,None,Vegetarian,21.453287197231838,1567.5,2429
+392,40,Male,155,64,Sedentary,Muscle Gain,None,None,26.638917793964616,1413.75,1696
+393,19,Female,166,58,Lightly Active,Muscle Gain,None,Vegan,21.04804761213529,1361.5,1872
+394,56,Female,162,50,Very Active,Weight Loss,None,None,19.05197378448407,1071.5,1848
+395,49,Female,173,63,Very Active,Endurance,None,Vegetarian,21.04981790236894,1305.25,2251
+396,29,Male,183,72,Sedentary,Endurance,None,Gluten-Free,21.49959688255845,1723.75,2068
+397,18,Male,151,78,Sedentary,Muscle Gain,Diabetes,Vegetarian,34.209025919915796,1638.75,1966
+398,51,Female,171,61,Sedentary,Muscle Gain,None,Vegan,20.86111966075032,1262.75,1515
+399,33,Female,168,63,Moderately Active,Endurance,None,Vegetarian,22.321428571428577,1354.0,2098
+400,49,Female,176,56,Very Active,Endurance,None,None,18.078512396694215,1254.0,2163
+401,18,Female,172,69,Sedentary,Maintenance,Heart Disease,Gluten-Free,23.323418063818284,1514.0,1816
+402,27,Female,162,57,Lightly Active,Muscle Gain,None,None,21.719250114311837,1286.5,1768
+403,35,Female,166,78,Sedentary,Muscle Gain,None,Vegetarian,28.305995064595734,1481.5,1777
+404,35,Male,162,45,Very Active,Weight Loss,None,Vegan,17.146776406035663,1292.5,2229
+405,29,Male,180,64,Sedentary,Maintenance,None,None,19.753086419753085,1625.0,1950
+406,42,Male,170,74,Very Active,Endurance,None,None,25.605536332179934,1597.5,2755
+407,22,Female,189,72,Sedentary,Maintenance,Heart Disease,None,20.15621063240111,1630.25,1956
+408,33,Female,169,110,Lightly Active,Endurance,None,Gluten-Free,38.514057631035335,1830.25,2516
+409,36,Female,162,75,Sedentary,Endurance,Hypertension,Keto,28.577960676726104,1421.5,1705
+410,41,Female,154,54,Lightly Active,Maintenance,None,Vegetarian,22.76943835385394,1136.5,1562
+411,43,Female,151,68,Lightly Active,Muscle Gain,None,Vegetarian,29.823253366080436,1247.75,1715
+412,21,Female,154,45,Sedentary,Endurance,Heart Disease,Keto,18.974531961544947,1146.5,1375
+413,18,Male,172,68,Lightly Active,Maintenance,None,None,22.985397512168742,1670.0,2296
+414,50,Male,175,57,Moderately Active,Weight Loss,Heart Disease,None,18.612244897959183,1418.75,2199
+415,38,Female,154,83,Sedentary,Maintenance,None,Vegan,34.99747006240513,1441.5,1729
+416,26,Male,178,61,Sedentary,Weight Loss,Heart Disease,Gluten-Free,19.252619618735007,1597.5,1917
+417,53,Female,165,68,Lightly Active,Endurance,None,Gluten-Free,24.977043158861342,1285.25,1767
+418,36,Male,171,60,Lightly Active,Maintenance,None,None,20.519134092541297,1493.75,2053
+419,49,Female,186,96,Sedentary,Maintenance,None,None,27.748872702046476,1716.5,2059
+420,35,Female,178,65,Moderately Active,Weight Loss,None,None,20.515086478979924,1426.5,2211
+421,59,Male,167,97,Lightly Active,Maintenance,None,None,34.78073792534691,1723.75,2370
+422,56,Male,161,82,Lightly Active,Maintenance,None,None,31.634581999151262,1551.25,2132
+423,32,Female,150,77,Very Active,Endurance,None,Vegan,34.22222222222222,1386.5,2391
+424,46,Female,162,75,Moderately Active,Maintenance,None,None,28.577960676726104,1371.5,2125
+425,42,Male,167,75,Moderately Active,Muscle Gain,Diabetes,Gluten-Free,26.89232313815483,1588.75,2462
+426,51,Male,160,45,Sedentary,Weight Loss,None,None,17.578124999999996,1200.0,1440
+427,23,Female,168,65,Moderately Active,Maintenance,None,Vegetarian,23.030045351473927,1424.0,2207
+428,43,Male,170,82,Sedentary,Weight Loss,None,None,28.373702422145332,1672.5,2007
+429,47,Female,167,69,Very Active,Weight Loss,None,None,24.740937287102444,1337.75,2307
+430,18,Female,163,48,Moderately Active,Weight Loss,None,None,18.06616733787497,1247.75,1934
+431,20,Female,171,69,Lightly Active,Maintenance,None,Keto,23.59700420642249,1497.75,2059
+432,18,Female,174,95,Very Active,Maintenance,Heart Disease,Gluten-Free,31.37798916633637,1786.5,3081
+433,31,Male,159,88,Sedentary,Weight Loss,Hypertension,None,34.80874965389027,1723.75,2068
+434,43,Male,184,69,Very Active,Muscle Gain,None,None,20.380434782608695,1630.0,2811
+435,53,Male,169,84,Sedentary,Weight Loss,None,Keto,29.410734918245165,1636.25,1963
+436,35,Male,170,64,Very Active,Muscle Gain,None,None,22.145328719723185,1532.5,2643
+437,54,Male,177,45,Sedentary,Weight Loss,None,None,14.363688595231254,1291.25,1549
+438,18,Male,172,56,Moderately Active,Endurance,None,Vegetarian,18.92915089237426,1550.0,2402
+439,18,Male,179,93,Lightly Active,Weight Loss,None,Keto,29.025311319871417,1963.75,2700
+440,34,Female,172,65,Sedentary,Weight Loss,None,None,21.971335857220122,1394.0,1672
+441,39,Male,163,66,Very Active,Maintenance,None,None,24.840980089578082,1488.75,2568
+442,34,Male,173,65,Sedentary,Muscle Gain,None,Keto,21.71806608974573,1566.25,1879
+443,18,Female,158,98,Sedentary,Endurance,Hypertension,None,39.25652940233936,1716.5,2059
+444,33,Male,171,94,Sedentary,Muscle Gain,None,None,32.14664341164803,1848.75,2218
+445,19,Male,169,103,Very Active,Endurance,Hypertension,Vegetarian,36.0631630545149,1996.25,3443
+446,43,Female,167,67,Lightly Active,Weight Loss,Heart Disease,Gluten-Free,24.023808670084982,1337.75,1839
+447,39,Male,168,74,Moderately Active,Maintenance,None,None,26.218820861678008,1600.0,2480
+448,23,Male,151,47,Lightly Active,Maintenance,None,Keto,20.613131003026183,1303.75,1792
+449,28,Male,164,92,Sedentary,Muscle Gain,None,Vegetarian,34.20582986317669,1810.0,2172
+450,22,Female,170,52,Very Active,Maintenance,Heart Disease,None,17.99307958477509,1311.5,2262
+451,34,Male,171,73,Lightly Active,Muscle Gain,Heart Disease,Keto,24.96494647925858,1633.75,2246
+452,46,Male,159,53,Sedentary,Muscle Gain,None,None,20.964360587002094,1298.75,1558
+453,23,Female,182,61,Moderately Active,Endurance,None,None,18.41565028378215,1471.5,2280
+454,41,Male,161,57,Moderately Active,Muscle Gain,Diabetes,Vegetarian,21.98989236526368,1376.25,2133
+455,28,Female,179,60,Moderately Active,Endurance,None,None,18.726007303142847,1417.75,2197
+456,25,Female,174,61,Sedentary,Maintenance,Diabetes,None,20.147971991015986,1411.5,1693
+457,33,Male,163,61,Very Active,Muscle Gain,Heart Disease,None,22.95908765854944,1468.75,2533
+458,22,Female,187,82,Lightly Active,Muscle Gain,None,None,23.449340844748203,1717.75,2361
+459,28,Female,158,53,Moderately Active,Weight Loss,None,Gluten-Free,21.230572023714146,1216.5,1885
+460,20,Male,179,73,Sedentary,Muscle Gain,None,Vegetarian,22.783308885490467,1753.75,2104
+461,58,Female,180,88,Sedentary,Muscle Gain,None,Keto,27.160493827160494,1554.0,1864
+462,35,Female,163,62,Lightly Active,Weight Loss,None,None,23.335466144755166,1302.75,1791
+463,26,Male,183,59,Moderately Active,Weight Loss,Diabetes,None,17.617725223207618,1608.75,2493
+464,37,Male,167,66,Sedentary,Maintenance,Heart Disease,None,23.66524436157625,1523.75,1828
+465,33,Male,172,87,Lightly Active,Muscle Gain,Heart Disease,None,29.40778799351001,1785.0,2454
+466,32,Female,172,72,Very Active,Maintenance,None,None,24.337479718766904,1474.0,2542
+467,42,Male,168,62,Very Active,Maintenance,Hypertension,Vegan,21.9671201814059,1465.0,2527
+468,44,Female,178,77,Very Active,Weight Loss,Diabetes,Keto,24.302487059714682,1501.5,2590
+469,28,Female,177,53,Moderately Active,Endurance,None,Keto,16.917233234383477,1335.25,2069
+470,28,Female,152,80,Lightly Active,Maintenance,None,None,34.62603878116344,1449.0,1992
+471,31,Female,183,76,Lightly Active,Endurance,None,Gluten-Free,22.694018931589476,1587.75,2183
+472,18,Female,153,65,Sedentary,Muscle Gain,Heart Disease,None,27.76709812465291,1355.25,1626
+473,18,Female,180,57,Sedentary,Weight Loss,None,None,17.59259259259259,1444.0,1732
+474,51,Female,181,56,Sedentary,Muscle Gain,Diabetes,Gluten-Free,17.09349531455084,1275.25,1530
+475,54,Male,159,78,Lightly Active,Muscle Gain,None,Vegetarian,30.853209920493647,1508.75,2074
+476,32,Male,165,88,Sedentary,Weight Loss,Diabetes,None,32.323232323232325,1756.25,2107
+477,41,Female,158,60,Lightly Active,Muscle Gain,None,None,24.034609838166958,1221.5,1679
+478,38,Female,167,76,Lightly Active,Weight Loss,None,None,27.250887446663558,1452.75,1997
+479,71,Male,166,45,Very Active,Endurance,None,Vegan,16.330381768036002,1137.5,1962
+480,48,Female,177,61,Sedentary,Muscle Gain,None,None,19.4707778735357,1315.25,1578
+481,33,Male,183,69,Very Active,Weight Loss,Hypertension,Keto,20.603780345785182,1673.75,2887
+482,23,Male,183,56,Moderately Active,Maintenance,None,None,16.72190868643435,1593.75,2470
+483,18,Male,164,55,Moderately Active,Muscle Gain,None,None,20.449137418203453,1490.0,2309
+484,37,Female,167,59,Moderately Active,Endurance,None,None,21.15529420201513,1287.75,1996
+485,25,Female,153,74,Lightly Active,Weight Loss,None,Vegetarian,31.611773249604852,1410.25,1939
+486,18,Male,161,67,Lightly Active,Muscle Gain,None,None,25.847768218818715,1591.25,2187
+487,27,Male,179,45,Lightly Active,Muscle Gain,None,Vegan,14.044505477357136,1438.75,1978
+488,22,Male,186,45,Sedentary,Muscle Gain,Heart Disease,Gluten-Free,13.007284079084286,1507.5,1809
+489,55,Male,157,60,Very Active,Endurance,None,Keto,24.341758286340216,1311.25,2261
+490,45,Male,164,76,Lightly Active,Weight Loss,Hypertension,Gluten-Free,28.256989886972047,1565.0,2151
+491,34,Female,169,45,Very Active,Maintenance,Heart Disease,Gluten-Free,15.75575084905991,1175.25,2027
+492,52,Male,172,62,Very Active,Maintenance,None,Vegetarian,20.9572742022715,1440.0,2484
+493,35,Female,161,62,Very Active,Maintenance,None,Gluten-Free,23.9188302920412,1290.25,2225
+494,24,Male,174,90,Sedentary,Weight Loss,None,None,29.72651605231867,1872.5,2247
+495,53,Female,165,64,Sedentary,Maintenance,Heart Disease,None,23.507805325987146,1245.25,1494
+496,41,Female,169,75,Moderately Active,Endurance,Heart Disease,None,26.25958474843318,1440.25,2232
+497,22,Female,175,72,Moderately Active,Weight Loss,None,None,23.510204081632654,1542.75,2391
+498,32,Female,170,45,Very Active,Muscle Gain,Diabetes,None,15.570934256055365,1191.5,2055
+499,24,Female,165,81,Moderately Active,Endurance,None,Keto,29.752066115702483,1560.25,2418
+500,18,Female,168,73,Very Active,Muscle Gain,Heart Disease,None,25.86451247165533,1529.0,2637
+501,46,Male,169,77,Sedentary,Maintenance,Heart Disease,None,26.959840341724732,1601.25,1921
+502,57,Female,166,120,Sedentary,Endurance,None,Vegetarian,43.54768471476267,1791.5,2149
+503,18,Male,167,45,Sedentary,Weight Loss,None,None,16.1353938828929,1408.75,1690
+504,41,Female,185,95,Lightly Active,Endurance,None,None,27.757487216946675,1740.25,2392
+505,27,Female,175,65,Very Active,Muscle Gain,None,None,21.224489795918366,1447.75,2497
+506,29,Male,167,74,Sedentary,Weight Loss,Hypertension,None,26.533758829646096,1643.75,1972
+507,27,Female,176,69,Very Active,Endurance,None,None,22.275309917355372,1494.0,2577
+508,24,Male,166,63,Moderately Active,Endurance,None,Vegan,22.8625344752504,1552.5,2406
+509,35,Male,181,61,Moderately Active,Endurance,None,Vegan,18.619700253350018,1571.25,2435
+510,25,Male,173,74,Sedentary,Endurance,Heart Disease,None,24.725182932941294,1701.25,2041
+511,38,Male,168,47,Very Active,Weight Loss,None,None,16.65249433106576,1335.0,2302
+512,34,Female,174,81,Sedentary,Muscle Gain,None,None,26.7538644470868,1566.5,1879
+513,32,Female,154,63,Moderately Active,Endurance,None,Vegan,26.564344746162927,1271.5,1970
+514,24,Male,158,53,Sedentary,Weight Loss,Heart Disease,None,21.230572023714146,1402.5,1683
+515,28,Female,158,63,Very Active,Muscle Gain,Hypertension,None,25.236340330075304,1316.5,2270
+516,44,Female,171,88,Moderately Active,Endurance,None,Vegan,30.094730002393902,1567.75,2430
+517,41,Male,187,61,Lightly Active,Muscle Gain,None,None,17.444021847922443,1578.75,2170
+518,23,Female,192,75,Moderately Active,Muscle Gain,None,None,20.345052083333332,1674.0,2594
+519,36,Male,176,59,Lightly Active,Weight Loss,None,None,19.047004132231404,1515.0,2083
+520,44,Male,175,81,Sedentary,Muscle Gain,None,Keto,26.448979591836736,1688.75,2026
+521,18,Female,151,80,Sedentary,Weight Loss,Heart Disease,Gluten-Free,35.086180430682866,1492.75,1791
+522,41,Female,164,97,Very Active,Endurance,None,Vegan,36.06484235574064,1629.0,2810
+523,27,Female,162,67,Lightly Active,Muscle Gain,Hypertension,None,25.529644871208653,1386.5,1906
+524,41,Male,163,80,Sedentary,Muscle Gain,None,Vegetarian,30.11027889645828,1618.75,1942
+525,25,Male,168,71,Lightly Active,Maintenance,Diabetes,Keto,25.15589569160998,1640.0,2255
+526,18,Female,165,89,Sedentary,Endurance,Diabetes,Keto,32.690541781450875,1670.25,2004
+527,18,Female,150,59,Moderately Active,Endurance,None,None,26.22222222222222,1276.5,1978
+528,35,Female,177,81,Sedentary,Maintenance,None,Gluten-Free,25.854639471416256,1580.25,1896
+529,38,Female,159,67,Very Active,Maintenance,None,None,26.502116213757365,1312.75,2264
+530,24,Male,172,69,Moderately Active,Weight Loss,None,None,23.323418063818284,1650.0,2557
+531,42,Female,190,71,Very Active,Weight Loss,None,Vegetarian,19.667590027700832,1526.5,2633
+532,18,Male,160,73,Moderately Active,Muscle Gain,None,None,28.515624999999993,1645.0,2549
+533,34,Male,150,68,Lightly Active,Muscle Gain,Heart Disease,Keto,30.22222222222222,1452.5,1997
+534,20,Female,167,73,Very Active,Muscle Gain,None,None,26.175194521137367,1512.75,2609
+535,27,Female,181,93,Sedentary,Muscle Gain,Hypertension,Vegetarian,28.387411861664784,1765.25,2118
+536,35,Female,189,84,Lightly Active,Weight Loss,None,Keto,23.515579071134628,1685.25,2317
+537,24,Male,157,83,Sedentary,Endurance,Diabetes,Keto,33.6727656294373,1696.25,2035
+538,30,Female,174,63,Moderately Active,Muscle Gain,None,None,20.808561236623067,1406.5,2180
+539,47,Female,165,56,Moderately Active,Endurance,Hypertension,None,20.569329660238754,1195.25,1852
+540,28,Male,168,84,Sedentary,Muscle Gain,None,Vegetarian,29.761904761904766,1755.0,2106
+541,45,Female,196,83,Sedentary,Maintenance,None,None,21.605581007913372,1669.0,2002
+542,21,Male,154,92,Lightly Active,Muscle Gain,None,Keto,38.792376454714116,1782.5,2450
+543,41,Female,172,60,Sedentary,Muscle Gain,None,Keto,20.281233098972418,1309.0,1570
+544,52,Male,174,66,Very Active,Muscle Gain,None,None,21.79944510503369,1492.5,2574
+545,18,Female,180,45,Very Active,Weight Loss,None,None,13.888888888888888,1324.0,2283
+546,25,Female,170,64,Sedentary,Maintenance,None,None,22.145328719723185,1416.5,1699
+547,41,Male,173,84,Very Active,Muscle Gain,Hypertension,Keto,28.06642386982525,1721.25,2969
+548,32,Male,166,63,Sedentary,Muscle Gain,None,None,22.8625344752504,1512.5,1815
+549,39,Female,172,79,Lightly Active,Endurance,None,None,26.703623580313685,1509.0,2074
+550,27,Male,166,67,Very Active,Maintenance,Diabetes,None,24.31412396574249,1577.5,2721
+551,36,Male,176,74,Very Active,Muscle Gain,None,Vegetarian,23.889462809917354,1665.0,2872
+552,33,Male,166,52,Sedentary,Endurance,None,None,18.870663376397157,1397.5,1677
+553,49,Male,173,71,Very Active,Endurance,None,None,23.722810651876106,1551.25,2675
+554,38,Female,169,45,Moderately Active,Weight Loss,Heart Disease,Keto,15.75575084905991,1155.25,1790
+555,39,Female,181,67,Lightly Active,Endurance,Hypertension,Keto,20.45114617990904,1445.25,1987
+556,30,Male,169,45,Lightly Active,Muscle Gain,Hypertension,Vegan,15.75575084905991,1361.25,1871
+557,29,Male,152,88,Very Active,Weight Loss,None,None,38.08864265927978,1690.0,2915
+558,29,Male,182,81,Very Active,Weight Loss,Diabetes,None,24.453568409612362,1807.5,3117
+559,39,Male,160,77,Moderately Active,Muscle Gain,None,Vegetarian,30.078124999999993,1580.0,2449
+560,29,Female,163,92,Moderately Active,Maintenance,None,None,34.62682073092702,1632.75,2530
+561,38,Female,164,55,Very Active,Endurance,None,Keto,20.449137418203453,1224.0,2111
+562,59,Male,183,96,Very Active,Weight Loss,None,Vegetarian,28.666129176744597,1813.75,3128
+563,45,Male,150,83,Moderately Active,Maintenance,None,None,36.888888888888886,1547.5,2398
+564,31,Male,200,66,Sedentary,Muscle Gain,None,Keto,16.5,1760.0,2112
+565,49,Female,180,87,Moderately Active,Endurance,None,Keto,26.85185185185185,1589.0,2462
+566,30,Male,172,53,Sedentary,Endurance,None,None,17.915089237425637,1460.0,1752
+567,18,Female,169,57,Lightly Active,Weight Loss,Diabetes,Vegetarian,19.95728440880922,1375.25,1890
+568,22,Male,172,60,Lightly Active,Endurance,None,None,20.281233098972418,1570.0,2158
+569,18,Female,175,62,Moderately Active,Endurance,Diabetes,None,20.244897959183675,1462.75,2267
+570,30,Male,176,54,Sedentary,Endurance,None,None,17.43285123966942,1495.0,1794
+571,35,Female,175,88,Moderately Active,Endurance,Hypertension,Vegetarian,28.73469387755102,1637.75,2538
+572,55,Male,170,66,Moderately Active,Muscle Gain,None,Keto,22.837370242214536,1452.5,2251
+573,38,Male,168,75,Sedentary,Maintenance,None,Vegetarian,26.573129251700685,1615.0,1938
+574,32,Male,168,61,Moderately Active,Muscle Gain,None,None,21.612811791383223,1505.0,2332
+575,44,Female,168,45,Lightly Active,Muscle Gain,None,Vegetarian,15.94387755102041,1119.0,1538
+576,18,Male,181,74,Very Active,Weight Loss,Hypertension,None,22.587833094227893,1786.25,3081
+577,37,Female,175,45,Very Active,Endurance,None,Gluten-Free,14.693877551020408,1197.75,2066
+578,44,Female,150,68,Moderately Active,Muscle Gain,None,None,30.22222222222222,1236.5,1916
+579,18,Male,176,49,Sedentary,Endurance,Hypertension,None,15.81869834710744,1505.0,1806
+580,48,Male,171,99,Sedentary,Muscle Gain,None,None,33.856571252693136,1823.75,2188
+581,39,Male,169,83,Lightly Active,Muscle Gain,None,Vegan,29.060607121599386,1696.25,2332
+582,30,Female,166,71,Sedentary,Weight Loss,None,None,25.76571345623458,1436.5,1723
+583,42,Male,181,88,Sedentary,Maintenance,None,Vegan,26.861206922865602,1806.25,2167
+584,62,Female,179,57,Lightly Active,Maintenance,None,None,17.789706937985706,1217.75,1674
+585,37,Female,162,78,Moderately Active,Muscle Gain,None,None,29.721079103795148,1446.5,2242
+586,37,Male,174,72,Very Active,Weight Loss,Heart Disease,None,23.781212841854934,1627.5,2807
+587,29,Male,160,73,Lightly Active,Endurance,None,Keto,28.515624999999993,1590.0,2186
+588,24,Male,156,89,Moderately Active,Endurance,None,Keto,36.571334648257725,1750.0,2712
+589,44,Male,163,80,Lightly Active,Muscle Gain,None,None,30.11027889645828,1603.75,2205
+590,24,Male,178,74,Moderately Active,Maintenance,Heart Disease,None,23.355636914530994,1737.5,2693
+591,35,Male,179,45,Lightly Active,Weight Loss,Hypertension,None,14.044505477357136,1398.75,1923
+592,29,Female,175,55,Moderately Active,Maintenance,None,Vegetarian,17.959183673469386,1337.75,2073
+593,40,Female,177,68,Lightly Active,Endurance,Diabetes,None,21.705129432793896,1425.25,1959
+594,39,Female,175,71,Moderately Active,Maintenance,None,Keto,23.183673469387756,1447.75,2244
+595,47,Male,163,53,Lightly Active,Endurance,None,Keto,19.94805976890361,1318.75,1813
+596,28,Female,174,106,Very Active,Weight Loss,None,None,35.01123001717532,1846.5,3185
+597,31,Female,178,92,Very Active,Weight Loss,None,None,29.036737785633125,1716.5,2960
+598,23,Female,177,79,Sedentary,Muscle Gain,None,Gluten-Free,25.2162533116282,1620.25,1944
+599,29,Female,181,71,Moderately Active,Muscle Gain,Heart Disease,Gluten-Free,21.672110130948383,1535.25,2379
+600,39,Female,177,66,Lightly Active,Maintenance,None,None,21.06674327300584,1410.25,1939
+601,44,Male,173,55,Moderately Active,Weight Loss,Heart Disease,None,18.376825152861773,1416.25,2195
+602,23,Male,180,71,Very Active,Weight Loss,None,None,21.91358024691358,1725.0,2975
+603,45,Female,169,73,Moderately Active,Muscle Gain,None,None,25.55932915514163,1400.25,2170
+604,51,Female,161,51,Lightly Active,Endurance,None,None,19.675166853130666,1100.25,1512
+605,39,Female,168,75,Moderately Active,Maintenance,None,None,26.573129251700685,1444.0,2238
+606,57,Male,162,67,Lightly Active,Maintenance,None,Vegetarian,25.529644871208653,1402.5,1928
+607,25,Male,163,45,Very Active,Muscle Gain,None,None,16.937031879257784,1348.75,2326
+608,20,Female,168,57,Very Active,Weight Loss,None,None,20.19557823129252,1359.0,2344
+609,18,Male,162,63,Very Active,Muscle Gain,None,None,24.005486968449926,1557.5,2686
+610,52,Male,166,98,Sedentary,Muscle Gain,Diabetes,Gluten-Free,35.56394251705618,1762.5,2115
+611,42,Female,151,78,Very Active,Muscle Gain,None,Gluten-Free,34.209025919915796,1352.75,2333
+612,34,Male,172,49,Moderately Active,Muscle Gain,None,None,16.563007030827475,1400.0,2170
+613,38,Male,170,77,Sedentary,Endurance,None,None,26.643598615916957,1647.5,1977
+614,21,Female,161,46,Very Active,Endurance,Heart Disease,Keto,17.746228926353147,1200.25,2070
+615,64,Male,176,86,Moderately Active,Weight Loss,Diabetes,None,27.763429752066116,1645.0,2549
+616,36,Male,179,62,Moderately Active,Muscle Gain,None,None,19.350207546580943,1563.75,2423
+617,36,Female,153,68,Moderately Active,Endurance,None,None,29.04865649963689,1295.25,2007
+618,43,Male,162,89,Lightly Active,Weight Loss,None,None,33.91251333638164,1692.5,2327
+619,40,Male,162,50,Sedentary,Muscle Gain,Heart Disease,None,19.05197378448407,1317.5,1581
+620,37,Female,160,49,Moderately Active,Maintenance,None,Keto,19.140624999999996,1144.0,1773
+621,25,Female,178,61,Lightly Active,Endurance,None,Vegetarian,19.252619618735007,1436.5,1975
+622,40,Female,168,85,Very Active,Weight Loss,None,None,30.116213151927443,1539.0,2654
+623,57,Male,167,47,Moderately Active,Maintenance,None,Keto,16.85252249991036,1233.75,1912
+624,51,Female,150,45,Lightly Active,Muscle Gain,Heart Disease,None,20.0,971.5,1335
+625,54,Male,176,63,Moderately Active,Muscle Gain,None,None,20.33832644628099,1465.0,2270
+626,28,Female,157,78,Sedentary,Muscle Gain,None,Vegetarian,31.64428577224228,1460.25,1752
+627,23,Male,170,88,Sedentary,Endurance,None,Vegetarian,30.449826989619382,1832.5,2199
+628,33,Female,172,63,Very Active,Weight Loss,Diabetes,None,21.29529475392104,1379.0,2378
+629,35,Female,183,63,Moderately Active,Maintenance,Diabetes,None,18.812147272238644,1437.75,2228
+630,48,Female,156,87,Lightly Active,Weight Loss,None,Vegetarian,35.74950690335305,1444.0,1985
+631,18,Female,150,45,Very Active,Endurance,None,Vegetarian,20.0,1136.5,1960
+632,53,Male,171,64,Moderately Active,Weight Loss,Hypertension,Vegetarian,21.887076365377382,1448.75,2245
+633,33,Female,188,72,Very Active,Endurance,None,None,20.37120869171571,1569.0,2706
+634,29,Female,182,76,Lightly Active,Muscle Gain,None,None,22.944088878154812,1591.5,2188
+635,22,Male,172,62,Very Active,Maintenance,None,None,20.9572742022715,1590.0,2742
+636,18,Female,165,70,Very Active,Muscle Gain,Heart Disease,None,25.71166207529844,1480.25,2553
+637,44,Male,178,45,Very Active,Weight Loss,None,Keto,14.202752177755334,1347.5,2324
+638,35,Female,160,60,Moderately Active,Muscle Gain,Diabetes,None,23.437499999999996,1264.0,1959
+639,19,Female,174,76,Lightly Active,Maintenance,None,None,25.102391333069097,1591.5,2188
+640,19,Female,175,55,Sedentary,Muscle Gain,None,Vegan,17.959183673469386,1387.75,1665
+641,30,Male,180,70,Moderately Active,Maintenance,None,None,21.604938271604937,1680.0,2604
+642,55,Female,197,76,Sedentary,Maintenance,None,None,19.58308639748512,1555.25,1866
+643,31,Female,173,64,Sedentary,Muscle Gain,None,Gluten-Free,21.383941996057334,1405.25,1686
+644,18,Female,164,72,Moderately Active,Endurance,None,Gluten-Free,26.769779892920884,1494.0,2315
+645,32,Male,169,55,Moderately Active,Weight Loss,None,Vegetarian,19.257028815517668,1451.25,2249
+646,31,Male,152,66,Lightly Active,Endurance,Hypertension,None,28.566481994459835,1460.0,2007
+647,18,Female,163,79,Lightly Active,Endurance,Heart Disease,Vegetarian,29.733900410252552,1557.75,2141
+648,34,Male,165,72,Very Active,Muscle Gain,None,Vegan,26.44628099173554,1586.25,2736
+649,32,Female,164,61,Sedentary,Weight Loss,None,None,22.679952409280194,1314.0,1576
+650,43,Female,171,73,Lightly Active,Weight Loss,None,None,24.96494647925858,1422.75,1956
+651,57,Female,161,80,Very Active,Endurance,None,Gluten-Free,30.86300682844026,1360.25,2346
+652,48,Female,181,45,Lightly Active,Muscle Gain,Hypertension,None,13.735844449192637,1180.25,1622
+653,31,Female,170,87,Moderately Active,Weight Loss,None,Vegan,30.103806228373706,1616.5,2505
+654,21,Female,169,64,Lightly Active,Endurance,None,None,22.40817898532965,1430.25,1966
+655,65,Female,166,76,Sedentary,Weight Loss,Diabetes,None,27.58020031934969,1311.5,1573
+656,35,Male,171,87,Lightly Active,Muscle Gain,None,None,29.75274443418488,1768.75,2432
+657,35,Male,178,49,Sedentary,Muscle Gain,None,Gluten-Free,15.465219038000251,1432.5,1719
+658,34,Male,161,59,Moderately Active,Muscle Gain,None,None,22.76146753597469,1431.25,2218
+659,37,Male,163,65,Sedentary,Weight Loss,None,Vegetarian,24.46460160337235,1488.75,1786
+660,33,Male,166,58,Lightly Active,Maintenance,None,Vegetarian,21.04804761213529,1457.5,2004
+661,28,Male,156,96,Very Active,Weight Loss,Diabetes,Vegan,39.44773175542406,1800.0,3105
+662,28,Male,161,57,Moderately Active,Maintenance,Hypertension,Keto,21.98989236526368,1441.25,2233
+663,34,Female,165,61,Lightly Active,Muscle Gain,None,Vegetarian,22.4058769513315,1310.25,1801
+664,28,Female,178,73,Moderately Active,Endurance,Heart Disease,None,23.04002019946976,1541.5,2389
+665,26,Female,172,51,Moderately Active,Maintenance,None,Keto,17.239048134126556,1294.0,2005
+666,36,Female,171,64,Lightly Active,Muscle Gain,Diabetes,Vegetarian,21.887076365377382,1367.75,1880
+667,31,Male,178,74,Lightly Active,Muscle Gain,None,None,23.355636914530994,1702.5,2340
+668,53,Male,168,65,Very Active,Maintenance,Hypertension,None,23.030045351473927,1440.0,2484
+669,18,Female,173,68,Moderately Active,Endurance,Heart Disease,Gluten-Free,22.720438370810918,1510.25,2340
+670,48,Female,168,62,Moderately Active,Muscle Gain,None,None,21.9671201814059,1269.0,1966
+671,49,Male,172,47,Lightly Active,Maintenance,Heart Disease,Vegetarian,15.886965927528395,1305.0,1794
+672,18,Female,164,74,Sedentary,Endurance,Hypertension,None,27.513384889946465,1514.0,1816
+673,30,Female,150,96,Lightly Active,Endurance,Diabetes,None,42.666666666666664,1586.5,2181
+674,30,Female,168,70,Moderately Active,Muscle Gain,None,Vegetarian,24.801587301587304,1439.0,2230
+675,18,Female,184,73,Lightly Active,Weight Loss,Hypertension,None,21.561909262759922,1629.0,2239
+676,25,Male,179,80,Very Active,Weight Loss,Hypertension,None,24.968009737523797,1798.75,3102
+677,21,Female,179,50,Sedentary,Muscle Gain,None,Vegetarian,15.605006085952374,1352.75,1623
+678,56,Female,182,95,Lightly Active,Endurance,Heart Disease,None,28.680111097693512,1646.5,2263
+679,46,Male,170,73,Very Active,Muscle Gain,None,Vegan,25.25951557093426,1567.5,2703
+680,50,Male,171,94,Moderately Active,Maintenance,None,Gluten-Free,32.14664341164803,1763.75,2733
+681,43,Female,163,59,Lightly Active,Weight Loss,None,Vegan,22.20633068613798,1232.75,1695
+682,21,Male,166,97,Moderately Active,Maintenance,None,None,35.20104514443316,1907.5,2956
+683,28,Female,176,81,Very Active,Muscle Gain,None,None,26.149276859504134,1609.0,2775
+684,40,Female,182,78,Moderately Active,Muscle Gain,None,Vegetarian,23.54788069073783,1556.5,2412
+685,20,Male,168,73,Very Active,Endurance,Heart Disease,Keto,25.86451247165533,1685.0,2906
+686,43,Female,165,66,Very Active,Endurance,None,Gluten-Free,24.242424242424246,1315.25,2268
+687,32,Female,170,88,Very Active,Endurance,None,Gluten-Free,30.449826989619382,1621.5,2797
+688,30,Female,176,72,Lightly Active,Maintenance,None,None,23.243801652892564,1509.0,2074
+689,43,Female,155,45,Moderately Active,Endurance,None,None,18.730489073881373,1042.75,1616
+690,40,Male,150,53,Moderately Active,Muscle Gain,Heart Disease,None,23.555555555555557,1272.5,1972
+691,30,Male,164,67,Sedentary,Endurance,None,None,24.910767400356935,1550.0,1860
+692,48,Female,157,74,Sedentary,Weight Loss,Hypertension,None,30.021501886486266,1320.25,1584
+693,22,Male,164,69,Sedentary,Endurance,None,Keto,25.654372397382513,1610.0,1932
+694,42,Female,168,88,Sedentary,Maintenance,None,None,31.17913832199547,1559.0,1870
+695,42,Female,165,45,Moderately Active,Weight Loss,None,None,16.528925619834713,1110.25,1720
+696,31,Female,184,72,Very Active,Weight Loss,None,None,21.266540642722116,1554.0,2680
+697,38,Female,173,45,Very Active,Weight Loss,None,Keto,15.035584215977813,1180.25,2035
+698,19,Female,173,81,Lightly Active,Maintenance,None,Vegetarian,27.064051588760066,1635.25,2248
+699,46,Male,176,68,Very Active,Muscle Gain,None,Vegetarian,21.952479338842977,1555.0,2682
+700,32,Female,158,76,Moderately Active,Endurance,Diabetes,Keto,30.443839128344813,1426.5,2211
+701,28,Male,180,57,Moderately Active,Weight Loss,None,None,17.59259259259259,1560.0,2418
+702,47,Male,169,89,Moderately Active,Weight Loss,None,Vegetarian,31.161373901474043,1716.25,2660
+703,26,Female,176,85,Lightly Active,Weight Loss,None,None,27.44059917355372,1659.0,2281
+704,18,Female,159,78,Sedentary,Muscle Gain,None,None,30.853209920493647,1522.75,1827
+705,18,Female,154,68,Very Active,Muscle Gain,Hypertension,Gluten-Free,28.67262607522348,1391.5,2400
+706,42,Female,178,78,Moderately Active,Maintenance,None,Vegan,24.61810377477591,1521.5,2358
+707,19,Female,173,59,Moderately Active,Muscle Gain,None,None,19.713321527615356,1415.25,2193
+708,56,Male,160,82,Sedentary,Endurance,Heart Disease,None,32.03124999999999,1545.0,1854
+709,18,Female,161,94,Moderately Active,Maintenance,None,Vegetarian,36.264033023417305,1695.25,2627
+710,55,Female,181,86,Very Active,Maintenance,None,None,26.25072494734593,1555.25,2682
+711,37,Male,158,59,Lightly Active,Endurance,None,None,23.634033007530842,1397.5,1921
+712,33,Male,186,75,Moderately Active,Endurance,None,None,21.678806798473808,1752.5,2716
+713,28,Female,160,50,Very Active,Endurance,Hypertension,None,19.531249999999996,1199.0,2068
+714,39,Male,176,78,Moderately Active,Maintenance,Hypertension,Gluten-Free,25.180785123966942,1690.0,2619
+715,34,Female,166,76,Sedentary,Maintenance,Heart Disease,None,27.58020031934969,1466.5,1759
+716,48,Male,176,45,Moderately Active,Maintenance,None,None,14.527376033057852,1315.0,2038
+717,36,Male,164,52,Moderately Active,Endurance,None,Vegetarian,19.333729922665082,1370.0,2123
+718,36,Female,168,65,Lightly Active,Endurance,Diabetes,Gluten-Free,23.030045351473927,1359.0,1868
+719,30,Male,170,65,Sedentary,Weight Loss,None,None,22.49134948096886,1567.5,1881
+720,34,Male,159,51,Sedentary,Muscle Gain,None,None,20.17325264032277,1338.75,1606
+721,38,Male,177,75,Lightly Active,Weight Loss,None,None,23.93948099205209,1671.25,2297
+722,18,Male,164,73,Moderately Active,Endurance,None,Vegan,27.141582391433676,1670.0,2588
+723,18,Male,167,67,Very Active,Maintenance,None,Vegetarian,24.023808670084982,1628.75,2809
+724,43,Male,160,58,Sedentary,Endurance,Hypertension,Gluten-Free,22.656249999999996,1370.0,1644
+725,37,Female,150,85,Sedentary,Muscle Gain,Hypertension,Keto,37.77777777777778,1441.5,1729
+726,32,Female,168,94,Moderately Active,Weight Loss,None,Vegan,33.30498866213152,1669.0,2586
+727,35,Male,194,62,Moderately Active,Weight Loss,None,Vegetarian,16.473589116803062,1662.5,2576
+728,39,Female,177,60,Sedentary,Maintenance,None,None,19.15158479364167,1350.25,1620
+729,28,Female,169,77,Moderately Active,Weight Loss,Hypertension,None,26.959840341724732,1525.25,2364
+730,25,Female,167,64,Very Active,Weight Loss,None,Keto,22.948115744558788,1397.75,2411
+731,37,Male,170,67,Sedentary,Endurance,Diabetes,None,23.18339100346021,1552.5,1863
+732,23,Female,175,81,Very Active,Weight Loss,None,None,26.448979591836736,1627.75,2807
+733,39,Male,158,45,Very Active,Weight Loss,None,Vegetarian,18.02595737862522,1247.5,2151
+734,18,Female,181,89,Moderately Active,Weight Loss,None,None,27.16644791062544,1770.25,2743
+735,47,Male,177,71,Very Active,Maintenance,Diabetes,Vegetarian,22.66270867247598,1586.25,2736
+736,40,Male,177,63,Moderately Active,Maintenance,None,Vegetarian,20.109164033323754,1541.25,2388
+737,38,Female,174,68,Lightly Active,Endurance,None,None,22.460034350640772,1416.5,1947
+738,46,Female,170,69,Moderately Active,Weight Loss,None,Gluten-Free,23.87543252595156,1361.5,2110
+739,54,Male,176,45,Very Active,Maintenance,Diabetes,None,14.527376033057852,1285.0,2216
+740,47,Female,175,92,Lightly Active,Maintenance,Hypertension,None,30.040816326530614,1617.75,2224
+741,18,Female,166,70,Moderately Active,Endurance,None,Vegetarian,25.402816083611555,1486.5,2304
+742,19,Female,164,76,Very Active,Muscle Gain,Hypertension,Vegetarian,28.256989886972047,1529.0,2637
+743,27,Male,171,84,Sedentary,Weight Loss,None,Vegan,28.726787729557817,1778.75,2134
+744,35,Male,185,54,Sedentary,Maintenance,None,None,15.777940102264425,1526.25,1831
+745,41,Female,157,77,Moderately Active,Endurance,None,Vegetarian,31.238589800803275,1385.25,2147
+746,26,Female,155,65,Moderately Active,Endurance,None,None,27.055150884495315,1327.75,2058
+747,37,Female,171,82,Sedentary,Endurance,Diabetes,Keto,28.042816593139772,1542.75,1851
+748,25,Male,170,45,Very Active,Maintenance,Diabetes,None,15.570934256055365,1392.5,2402
+749,27,Male,171,68,Very Active,Weight Loss,None,Vegan,23.25501863821347,1618.75,2792
+750,18,Female,172,60,Very Active,Muscle Gain,None,None,20.281233098972418,1424.0,2456
+751,23,Female,167,76,Moderately Active,Weight Loss,Hypertension,None,27.250887446663558,1527.75,2368
+752,18,Female,184,77,Lightly Active,Endurance,Heart Disease,None,22.743383742911153,1669.0,2294
+753,23,Female,153,59,Lightly Active,Endurance,None,Gluten-Free,25.20398137468495,1270.25,1746
+754,47,Female,161,59,Lightly Active,Muscle Gain,Heart Disease,Vegetarian,22.76146753597469,1200.25,1650
+755,23,Female,168,68,Lightly Active,Weight Loss,None,Keto,24.092970521541954,1454.0,1999
+756,66,Male,153,56,Lightly Active,Endurance,None,None,23.92242299970097,1191.25,1637
+757,40,Female,168,82,Moderately Active,Endurance,Hypertension,None,29.053287981859416,1509.0,2338
+758,37,Male,186,64,Moderately Active,Weight Loss,None,None,18.499248468030984,1622.5,2514
+759,24,Female,170,45,Lightly Active,Endurance,None,Gluten-Free,15.570934256055365,1231.5,1693
+760,43,Female,172,64,Moderately Active,Weight Loss,None,None,21.63331530557058,1339.0,2075
+761,28,Male,157,54,Moderately Active,Endurance,Hypertension,Gluten-Free,21.907582457706194,1386.25,2148
+762,36,Male,163,45,Lightly Active,Weight Loss,Hypertension,Keto,16.937031879257784,1293.75,1778
+763,65,Male,166,51,Very Active,Muscle Gain,None,Keto,18.507766003774133,1227.5,2117
+764,33,Male,166,71,Moderately Active,Endurance,None,Vegetarian,25.76571345623458,1587.5,2460
+765,48,Female,182,89,Very Active,Muscle Gain,None,Vegetarian,26.86873565994445,1626.5,2805
+766,26,Male,175,74,Moderately Active,Endurance,None,Vegan,24.163265306122447,1708.75,2648
+767,34,Female,158,60,Moderately Active,Endurance,None,None,24.034609838166958,1256.5,1947
+768,56,Male,172,76,Lightly Active,Maintenance,Diabetes,Vegetarian,25.689561925365066,1560.0,2145
+769,27,Female,174,63,Moderately Active,Weight Loss,None,None,20.808561236623067,1421.5,2203
+770,56,Female,181,59,Sedentary,Muscle Gain,None,None,18.009218277830346,1280.25,1536
+771,43,Female,185,52,Sedentary,Muscle Gain,None,None,15.193571950328705,1300.25,1560
+772,28,Female,159,45,Lightly Active,Muscle Gain,None,None,17.799928800284796,1142.75,1571
+773,42,Female,161,64,Very Active,Weight Loss,Heart Disease,None,24.690405462752206,1275.25,2199
+774,46,Female,157,72,Very Active,Maintenance,None,None,29.21010994360826,1310.25,2260
+775,42,Male,167,68,Very Active,Muscle Gain,None,Vegetarian,24.38237297859371,1518.75,2619
+776,18,Female,174,63,Sedentary,Weight Loss,None,None,20.808561236623067,1466.5,1759
+777,26,Male,179,55,Very Active,Endurance,None,Vegetarian,17.165506694547613,1543.75,2662
+778,32,Male,169,79,Very Active,Muscle Gain,None,None,27.660095935016283,1691.25,2917
+779,34,Female,166,50,Lightly Active,Muscle Gain,None,Vegetarian,18.144868631151112,1206.5,1658
+780,42,Male,171,81,Very Active,Maintenance,None,Vegetarian,27.70083102493075,1673.75,2887
+781,37,Female,161,54,Sedentary,Muscle Gain,None,Vegetarian,20.832529609197174,1200.25,1440
+782,18,Male,190,58,Sedentary,Muscle Gain,None,Vegan,16.066481994459835,1682.5,2019
+783,39,Female,153,47,Sedentary,Endurance,None,None,20.07774787474903,1070.25,1284
+784,42,Male,171,62,Lightly Active,Weight Loss,Heart Disease,Vegan,21.20310522895934,1483.75,2040
+785,41,Female,190,84,Lightly Active,Weight Loss,None,None,23.26869806094183,1661.5,2284
+786,47,Female,170,77,Moderately Active,Maintenance,None,None,26.643598615916957,1436.5,2226
+787,45,Female,168,84,Very Active,Endurance,None,Vegetarian,29.761904761904766,1504.0,2594
+788,40,Female,166,77,Lightly Active,Weight Loss,None,None,27.94309769197271,1446.5,1988
+789,34,Male,168,53,Sedentary,Endurance,Diabetes,Vegetarian,18.77834467120182,1415.0,1698
+790,18,Female,183,65,Sedentary,Weight Loss,None,Vegetarian,19.409358296754156,1542.75,1851
+791,40,Male,150,58,Lightly Active,Endurance,Diabetes,None,25.77777777777778,1322.5,1818
+792,37,Male,185,89,Lightly Active,Maintenance,None,None,26.004382761139514,1866.25,2566
+793,38,Male,155,52,Lightly Active,Muscle Gain,None,None,21.64412070759625,1303.75,1792
+794,19,Female,167,83,Moderately Active,Maintenance,Diabetes,Keto,29.760837606224676,1617.75,2507
+795,22,Male,165,83,Sedentary,Weight Loss,None,Vegetarian,30.48668503213958,1756.25,2107
+796,47,Male,175,97,Moderately Active,Maintenance,None,None,31.6734693877551,1833.75,2842
+797,34,Male,154,63,Moderately Active,Muscle Gain,None,None,26.564344746162927,1427.5,2212
+798,43,Female,174,80,Very Active,Maintenance,Diabetes,Vegetarian,26.42356982428326,1511.5,2607
+799,35,Female,190,104,Sedentary,Weight Loss,None,Gluten-Free,28.80886426592798,1891.5,2269
+800,35,Male,156,60,Sedentary,Weight Loss,Hypertension,None,24.654832347140037,1405.0,1686
+801,46,Female,171,46,Lightly Active,Maintenance,None,None,15.731336137614994,1137.75,1564
+802,28,Female,163,45,Lightly Active,Muscle Gain,Hypertension,Gluten-Free,16.937031879257784,1167.75,1605
+803,36,Male,174,80,Very Active,Maintenance,None,None,26.42356982428326,1712.5,2954
+804,29,Male,170,45,Moderately Active,Muscle Gain,Diabetes,None,15.570934256055365,1372.5,2127
+805,29,Female,163,64,Lightly Active,Endurance,None,Keto,24.088223117166624,1352.75,1860
+806,31,Male,174,76,Lightly Active,Muscle Gain,Heart Disease,Vegetarian,25.102391333069097,1697.5,2334
+807,37,Female,188,72,Sedentary,Endurance,None,None,20.37120869171571,1549.0,1858
+808,29,Female,168,76,Sedentary,Maintenance,None,None,26.92743764172336,1504.0,1804
+809,50,Female,177,73,Lightly Active,Muscle Gain,None,None,23.301094832264035,1425.25,1959
+810,24,Female,157,89,Sedentary,Endurance,None,None,36.10694145807132,1590.25,1908
+811,32,Female,160,55,Very Active,Endurance,None,Gluten-Free,21.484374999999996,1229.0,2120
+812,29,Female,174,59,Lightly Active,Endurance,Heart Disease,None,19.487382745408905,1371.5,1885
+813,52,Male,184,58,Sedentary,Weight Loss,Heart Disease,Vegan,17.131379962192817,1475.0,1770
+814,37,Male,173,82,Very Active,Maintenance,None,Keto,27.39817568244846,1721.25,2969
+815,47,Female,166,83,Sedentary,Endurance,Heart Disease,None,30.120481927710845,1471.5,1765
+816,18,Female,169,76,Sedentary,Muscle Gain,None,None,26.609712545078956,1565.25,1878
+817,38,Female,157,87,Sedentary,Endurance,None,Vegetarian,35.295549515193315,1500.25,1800
+818,45,Male,176,52,Lightly Active,Weight Loss,Diabetes,Keto,16.787190082644628,1400.0,1925
+819,35,Female,178,95,Moderately Active,Maintenance,None,Gluten-Free,29.983587930816814,1726.5,2676
+820,47,Male,165,92,Sedentary,Weight Loss,Heart Disease,None,33.792470156106525,1721.25,2065
+821,28,Female,165,81,Very Active,Weight Loss,None,Vegetarian,29.752066115702483,1540.25,2656
+822,51,Female,172,96,Lightly Active,Weight Loss,None,Vegetarian,32.44997295835587,1619.0,2226
+823,62,Male,165,45,Lightly Active,Muscle Gain,None,Keto,16.528925619834713,1176.25,1617
+824,30,Male,169,62,Very Active,Maintenance,None,None,21.707923392038097,1531.25,2641
+825,29,Female,190,58,Sedentary,Maintenance,None,Vegetarian,16.066481994459835,1461.5,1753
+826,52,Female,167,80,Moderately Active,Muscle Gain,Heart Disease,Gluten-Free,28.685144680698485,1422.75,2205
+827,53,Female,166,54,Sedentary,Maintenance,Hypertension,None,19.5964581216432,1151.5,1381
+828,28,Male,163,81,Very Active,Weight Loss,Diabetes,None,30.48665738266401,1693.75,2921
+829,29,Male,177,90,Lightly Active,Maintenance,None,None,28.72737719046251,1866.25,2566
+830,31,Male,168,80,Moderately Active,Muscle Gain,None,None,28.344671201814062,1700.0,2635
+831,18,Male,163,74,Lightly Active,Weight Loss,None,None,27.85200797922391,1673.75,2301
+832,23,Male,183,55,Very Active,Muscle Gain,None,Keto,16.423303174176592,1583.75,2731
+833,22,Male,184,57,Sedentary,Endurance,None,None,16.836011342155007,1615.0,1938
+834,25,Female,163,88,Moderately Active,Weight Loss,Diabetes,None,33.12130678610411,1612.75,2499
+835,34,Female,151,81,Lightly Active,Weight Loss,None,Vegetarian,35.5247576860664,1422.75,1956
+836,37,Male,180,69,Lightly Active,Maintenance,None,None,21.296296296296294,1635.0,2248
+837,53,Female,163,63,Lightly Active,Weight Loss,None,None,23.711844630960897,1222.75,1681
+838,23,Female,177,45,Sedentary,Muscle Gain,None,Vegan,14.363688595231254,1280.25,1536
+839,46,Male,150,53,Moderately Active,Maintenance,None,Gluten-Free,23.555555555555557,1242.5,1925
+840,32,Female,178,98,Sedentary,Endurance,Heart Disease,Vegetarian,30.930438076000502,1771.5,2125
+841,34,Male,157,50,Sedentary,Muscle Gain,None,Vegetarian,20.28479857195018,1316.25,1579
+842,43,Male,177,72,Sedentary,Endurance,Hypertension,None,22.981901752370007,1616.25,1939
+843,21,Female,170,85,Very Active,Endurance,None,Keto,29.411764705882355,1646.5,2840
+844,39,Male,160,51,Very Active,Endurance,None,None,19.921874999999996,1320.0,2277
+845,36,Male,165,72,Very Active,Weight Loss,None,Vegan,26.44628099173554,1576.25,2719
+846,40,Male,176,84,Moderately Active,Muscle Gain,Hypertension,None,27.117768595041323,1745.0,2704
+847,38,Male,171,70,Sedentary,Muscle Gain,Diabetes,Keto,23.938989774631512,1583.75,1900
+848,64,Male,175,113,Sedentary,Weight Loss,None,Vegan,36.89795918367347,1908.75,2290
+849,27,Male,189,45,Very Active,Maintenance,None,Vegan,12.597631645250694,1501.25,2589
+850,28,Male,154,85,Sedentary,Endurance,None,None,35.84078259402935,1677.5,2013
+851,27,Male,186,67,Sedentary,Muscle Gain,None,None,19.366400739969936,1702.5,2043
+852,28,Female,171,81,Lightly Active,Weight Loss,Heart Disease,Vegetarian,27.70083102493075,1577.75,2169
+853,27,Female,161,76,Sedentary,Endurance,None,Vegan,29.319856487018246,1470.25,1764
+854,49,Female,156,59,Lightly Active,Maintenance,None,None,24.243918474687703,1159.0,1593
+855,52,Male,168,73,Sedentary,Maintenance,None,Keto,25.86451247165533,1525.0,1830
+856,28,Male,179,45,Moderately Active,Endurance,None,Gluten-Free,14.044505477357136,1433.75,2222
+857,25,Female,168,79,Very Active,Maintenance,None,None,27.99036281179139,1554.0,2680
+858,40,Female,185,74,Lightly Active,Muscle Gain,None,Gluten-Free,21.62162162162162,1535.25,2110
+859,28,Female,155,79,Very Active,Muscle Gain,Diabetes,Vegetarian,32.882414151925076,1457.75,2514
+860,42,Male,169,85,Lightly Active,Muscle Gain,Diabetes,None,29.76086271489094,1701.25,2339
+861,37,Female,157,75,Lightly Active,Maintenance,None,None,30.427197857925268,1385.25,1904
+862,18,Female,173,72,Lightly Active,Muscle Gain,Hypertension,Vegetarian,24.0569347455645,1550.25,2131
+863,53,Male,178,56,Moderately Active,Weight Loss,None,Vegan,17.67453604342886,1412.5,2189
+864,56,Female,165,59,Sedentary,Muscle Gain,None,None,21.6712580348944,1180.25,1416
+865,27,Male,150,87,Lightly Active,Muscle Gain,None,Vegetarian,38.666666666666664,1677.5,2306
+866,30,Male,171,91,Moderately Active,Maintenance,None,Vegetarian,31.120686707020965,1833.75,2842
+867,38,Male,174,66,Lightly Active,Muscle Gain,None,Vegan,21.79944510503369,1562.5,2148
+868,39,Female,174,70,Sedentary,Endurance,None,None,23.120623596247853,1431.5,1717
+869,42,Female,182,56,Lightly Active,Weight Loss,None,Gluten-Free,16.9061707523246,1326.5,1823
+870,59,Male,159,87,Moderately Active,Maintenance,Heart Disease,None,34.41319568055061,1573.75,2439
+871,32,Female,176,79,Sedentary,Weight Loss,None,None,25.50361570247934,1569.0,1882
+872,25,Female,181,99,Moderately Active,Endurance,None,None,30.218857788223804,1835.25,2844
+873,18,Female,152,56,Sedentary,Maintenance,None,None,24.238227146814403,1259.0,1510
+874,26,Female,173,64,Sedentary,Maintenance,None,Gluten-Free,21.383941996057334,1430.25,1716
+875,34,Male,164,73,Very Active,Muscle Gain,None,None,27.141582391433676,1590.0,2742
+876,56,Female,169,79,Very Active,Weight Loss,Hypertension,Vegan,27.660095935016283,1405.25,2424
+877,28,Male,173,66,Very Active,Endurance,None,None,22.052190183434128,1606.25,2770
+878,37,Male,165,56,Sedentary,Endurance,None,None,20.569329660238754,1411.25,1693
+879,34,Female,163,83,Lightly Active,Maintenance,None,Keto,31.239414355075468,1517.75,2086
+880,49,Male,170,80,Moderately Active,Muscle Gain,None,Vegan,27.68166089965398,1622.5,2514
+881,65,Female,159,56,Moderately Active,Maintenance,None,None,22.151022507021082,1067.75,1655
+882,28,Female,159,90,Moderately Active,Maintenance,None,Vegetarian,35.59985760056959,1592.75,2468
+883,29,Male,176,87,Very Active,Maintenance,None,None,28.08626033057851,1830.0,3156
+884,47,Male,158,72,Sedentary,Maintenance,None,None,28.841531805800347,1477.5,1773
+885,43,Male,176,71,Very Active,Endurance,None,Vegan,22.920971074380166,1600.0,2760
+886,57,Male,174,78,Lightly Active,Endurance,Heart Disease,Vegan,25.762980578676178,1587.5,2182
+887,42,Female,152,57,Sedentary,Maintenance,None,None,24.67105263157895,1149.0,1378
+888,30,Female,163,70,Moderately Active,Maintenance,Hypertension,Keto,26.346494034400994,1407.75,2182
+889,42,Female,181,45,Very Active,Muscle Gain,Diabetes,Vegetarian,13.735844449192637,1210.25,2087
+890,48,Male,160,83,Very Active,Maintenance,None,None,32.42187499999999,1595.0,2751
+891,44,Male,165,46,Lightly Active,Endurance,None,Vegetarian,16.896235078053262,1276.25,1754
+892,41,Male,174,92,Lightly Active,Weight Loss,None,Vegetarian,30.38710529792575,1807.5,2485
+893,47,Female,177,65,Very Active,Endurance,None,Vegetarian,20.747550193111813,1360.25,2346
+894,49,Male,167,66,Lightly Active,Muscle Gain,None,None,23.66524436157625,1463.75,2012
+895,51,Female,164,60,Moderately Active,Endurance,Diabetes,Vegetarian,22.308149910767405,1209.0,1873
+896,42,Male,184,65,Lightly Active,Weight Loss,Heart Disease,None,19.198960302457465,1595.0,2193
+897,32,Female,187,91,Lightly Active,Maintenance,None,Gluten-Free,26.023048986244955,1757.75,2416
+898,36,Female,179,45,Very Active,Weight Loss,None,Vegetarian,14.044505477357136,1227.75,2117
+899,49,Male,170,89,Very Active,Maintenance,None,None,30.795847750865054,1712.5,2954
+900,25,Male,161,75,Sedentary,Maintenance,Hypertension,Vegan,28.93406890166274,1636.25,1963
+901,39,Female,161,51,Sedentary,Endurance,None,Keto,19.675166853130666,1160.25,1392
+902,30,Female,175,53,Very Active,Endurance,None,Keto,17.306122448979593,1312.75,2264
+903,35,Male,174,95,Lightly Active,Endurance,Diabetes,None,31.37798916633637,1867.5,2567
+904,50,Male,184,55,Lightly Active,Muscle Gain,None,None,16.245274102079396,1455.0,2000
+905,37,Female,176,52,Sedentary,Endurance,Heart Disease,Vegetarian,16.787190082644628,1274.0,1528
+906,35,Male,154,87,Sedentary,Muscle Gain,None,None,36.68409512565357,1662.5,1995
+907,18,Female,180,75,Sedentary,Endurance,None,Keto,23.148148148148145,1624.0,1948
+908,43,Female,160,55,Moderately Active,Maintenance,Heart Disease,None,21.484374999999996,1174.0,1819
+909,42,Male,166,73,Moderately Active,Muscle Gain,None,None,26.491508201480624,1562.5,2421
+910,60,Male,172,54,Sedentary,Weight Loss,None,None,18.25310978907518,1320.0,1584
+911,31,Male,189,86,Lightly Active,Muscle Gain,None,None,24.075473810923548,1891.25,2600
+912,37,Male,200,85,Sedentary,Muscle Gain,None,Vegan,21.25,1920.0,2304
+913,37,Male,176,77,Moderately Active,Weight Loss,None,None,24.857954545454547,1690.0,2619
+914,53,Female,168,75,Lightly Active,Muscle Gain,None,None,26.573129251700685,1374.0,1889
+915,33,Female,175,96,Moderately Active,Maintenance,None,None,31.346938775510203,1727.75,2678
+916,38,Male,178,69,Lightly Active,Endurance,None,Vegetarian,21.777553339224845,1617.5,2224
+917,42,Male,166,52,Moderately Active,Weight Loss,Diabetes,None,18.870663376397157,1352.5,2096
+918,37,Male,187,76,Lightly Active,Endurance,Hypertension,Vegetarian,21.7335354170837,1748.75,2404
+919,29,Female,172,101,Lightly Active,Maintenance,None,Vegetarian,34.140075716603576,1779.0,2446
+920,37,Male,174,54,Lightly Active,Weight Loss,None,Vegan,17.8359096313912,1447.5,1990
+921,47,Male,176,64,Lightly Active,Endurance,None,Keto,20.66115702479339,1510.0,2076
+922,22,Female,174,76,Very Active,Endurance,None,Keto,25.102391333069097,1576.5,2719
+923,36,Female,178,69,Moderately Active,Maintenance,Diabetes,Keto,21.777553339224845,1461.5,2265
+924,26,Male,163,55,Moderately Active,Endurance,Diabetes,None,20.70081674131507,1443.75,2237
+925,49,Male,164,86,Very Active,Maintenance,None,None,31.975014872099948,1645.0,2837
+926,18,Male,158,104,Lightly Active,Muscle Gain,None,None,41.65999038615606,1942.5,2670
+927,28,Female,174,72,Lightly Active,Maintenance,None,Gluten-Free,23.781212841854934,1506.5,2071
+928,39,Male,177,56,Moderately Active,Muscle Gain,None,Keto,17.87481247406556,1476.25,2288
+929,53,Male,174,46,Very Active,Weight Loss,None,Gluten-Free,15.193552648962875,1287.5,2220
+930,34,Male,186,73,Lightly Active,Endurance,Heart Disease,None,21.10070528384784,1727.5,2375
+931,28,Female,169,86,Lightly Active,Maintenance,Diabetes,Keto,30.110990511536716,1615.25,2220
+932,57,Female,176,77,Lightly Active,Maintenance,None,None,24.857954545454547,1424.0,1958
+933,18,Male,159,69,Sedentary,Endurance,None,None,27.29322416043669,1598.75,1918
+934,18,Male,166,61,Very Active,Endurance,Heart Disease,None,22.136739730004358,1562.5,2695
+935,40,Female,176,53,Lightly Active,Weight Loss,None,None,17.110020661157026,1269.0,1744
+936,28,Female,178,82,Sedentary,Weight Loss,None,Vegetarian,25.88057063502083,1631.5,1957
+937,22,Female,167,83,Very Active,Maintenance,None,None,29.760837606224676,1602.75,2764
+938,43,Female,169,46,Lightly Active,Weight Loss,Hypertension,None,16.105878645705683,1140.25,1567
+939,37,Female,154,93,Moderately Active,Muscle Gain,None,Vegetarian,39.21403272052623,1546.5,2397
+940,28,Female,166,78,Sedentary,Weight Loss,None,Gluten-Free,28.305995064595734,1516.5,1819
+941,19,Female,178,90,Sedentary,Weight Loss,Hypertension,Vegetarian,28.40550435551067,1756.5,2107
+942,45,Female,175,49,Lightly Active,Maintenance,Hypertension,None,16.0,1197.75,1646
+943,42,Female,175,49,Lightly Active,Muscle Gain,Heart Disease,Gluten-Free,16.0,1212.75,1667
+944,33,Male,170,67,Sedentary,Weight Loss,None,Keto,23.18339100346021,1572.5,1887
+945,57,Male,170,77,Moderately Active,Muscle Gain,None,None,26.643598615916957,1552.5,2406
+946,22,Male,163,96,Moderately Active,Muscle Gain,Diabetes,Vegetarian,36.13233467574994,1873.75,2904
+947,18,Female,176,80,Very Active,Muscle Gain,Diabetes,None,25.826446280991735,1649.0,2844
+948,26,Male,174,66,Lightly Active,Endurance,None,None,21.79944510503369,1622.5,2230
+949,34,Female,174,54,Moderately Active,Endurance,None,Vegetarian,17.8359096313912,1296.5,2009
+950,37,Female,164,88,Very Active,Endurance,Diabetes,Gluten-Free,32.718619869125526,1559.0,2689
+951,32,Male,150,55,Moderately Active,Endurance,Diabetes,None,24.444444444444443,1332.5,2065
+952,39,Female,180,94,Lightly Active,Maintenance,None,Gluten-Free,29.012345679012345,1709.0,2349
+953,19,Male,165,65,Very Active,Weight Loss,None,Gluten-Free,23.875114784205696,1591.25,2744
+954,52,Male,161,93,Very Active,Endurance,None,Keto,35.878245438061796,1681.25,2900
+955,34,Male,176,80,Very Active,Maintenance,None,None,25.826446280991735,1735.0,2992
+956,48,Female,166,67,Moderately Active,Weight Loss,None,Keto,24.31412396574249,1306.5,2025
+957,39,Male,180,62,Lightly Active,Endurance,None,None,19.1358024691358,1555.0,2138
+958,40,Female,176,64,Very Active,Weight Loss,None,Vegetarian,20.66115702479339,1379.0,2378
+959,41,Male,176,76,Sedentary,Endurance,None,None,24.535123966942148,1660.0,1992
+960,40,Male,156,71,Lightly Active,Maintenance,None,None,29.17488494411571,1490.0,2048
+961,42,Male,182,61,Sedentary,Muscle Gain,Hypertension,Vegan,18.41565028378215,1542.5,1851
+962,50,Female,172,67,Sedentary,Muscle Gain,None,None,22.647376960519203,1334.0,1600
+963,37,Female,166,71,Very Active,Weight Loss,None,None,25.76571345623458,1401.5,2417
+964,43,Female,171,45,Very Active,Maintenance,Hypertension,None,15.389350569405973,1142.75,1971
+965,33,Male,152,76,Moderately Active,Muscle Gain,None,Vegetarian,32.89473684210526,1550.0,2402
+966,52,Male,174,55,Moderately Active,Endurance,Heart Disease,None,18.166204254194742,1382.5,2142
+967,26,Female,159,52,Moderately Active,Muscle Gain,Hypertension,Gluten-Free,20.56880661366243,1222.75,1895
+968,56,Female,156,45,Lightly Active,Weight Loss,None,None,18.49112426035503,984.0,1353
+969,34,Female,154,45,Moderately Active,Weight Loss,Heart Disease,None,18.974531961544947,1081.5,1676
+970,18,Female,181,49,Sedentary,Maintenance,None,None,14.956808400231983,1370.25,1644
+971,36,Female,163,59,Moderately Active,Weight Loss,None,None,22.20633068613798,1267.75,1965
+972,26,Female,185,99,Very Active,Muscle Gain,None,None,28.926223520818112,1855.25,3200
+973,45,Male,164,62,Moderately Active,Muscle Gain,None,None,23.051754907792983,1425.0,2208
+974,27,Female,152,72,Lightly Active,Muscle Gain,Heart Disease,Keto,31.16343490304709,1374.0,1889
+975,29,Male,158,76,Lightly Active,Muscle Gain,None,Vegetarian,30.443839128344813,1607.5,2210
+976,18,Male,182,71,Sedentary,Maintenance,None,None,21.434609346697258,1762.5,2115
+977,29,Female,168,68,Lightly Active,Endurance,None,None,24.092970521541954,1424.0,1958
+978,18,Female,164,52,Moderately Active,Endurance,None,Gluten-Free,19.333729922665082,1294.0,2005
+979,18,Male,171,91,Very Active,Maintenance,None,None,31.120686707020965,1893.75,3266
+980,44,Female,175,97,Lightly Active,Weight Loss,None,None,31.6734693877551,1682.75,2313
+981,44,Female,181,45,Sedentary,Endurance,Hypertension,Vegan,13.735844449192637,1200.25,1440
+982,40,Male,184,54,Moderately Active,Weight Loss,None,Vegetarian,15.949905482041586,1495.0,2317
+983,23,Male,166,65,Sedentary,Endurance,Hypertension,Vegetarian,23.588329220496444,1577.5,1893
+984,34,Male,156,55,Lightly Active,Weight Loss,None,None,22.600262984878366,1360.0,1870
+985,34,Female,165,77,Lightly Active,Maintenance,Diabetes,None,28.282828282828287,1470.25,2021
+986,21,Male,172,59,Sedentary,Muscle Gain,Diabetes,Vegetarian,19.94321254732288,1565.0,1878
+987,53,Female,160,102,Moderately Active,Weight Loss,None,None,39.84374999999999,1594.0,2470
+988,45,Male,160,87,Lightly Active,Muscle Gain,None,Vegetarian,33.98437499999999,1650.0,2268
+989,32,Male,173,73,Very Active,Weight Loss,Hypertension,Vegetarian,24.3910588392529,1656.25,2857
+990,35,Male,169,85,Lightly Active,Weight Loss,None,None,29.76086271489094,1736.25,2387
+991,37,Female,170,86,Moderately Active,Weight Loss,Heart Disease,Keto,29.75778546712803,1576.5,2443
+992,18,Female,162,61,Lightly Active,Weight Loss,None,Gluten-Free,23.243408017070564,1371.5,1885
+993,32,Male,167,57,Sedentary,Weight Loss,None,Vegan,20.43816558499767,1458.75,1750
+994,26,Male,160,71,Lightly Active,Muscle Gain,None,None,27.734374999999993,1585.0,2179
+995,22,Male,178,82,Lightly Active,Weight Loss,Heart Disease,None,25.88057063502083,1827.5,2512
+996,31,Female,180,72,Moderately Active,Muscle Gain,None,None,22.22222222222222,1529.0,2369
+997,56,Male,151,46,Sedentary,Maintenance,Hypertension,None,20.174553747642648,1128.75,1354
+998,42,Female,160,57,Moderately Active,Endurance,Hypertension,Keto,22.265624999999996,1199.0,1858
+999,28,Male,155,68,Lightly Active,Weight Loss,None,None,28.303850156087407,1513.75,2081
+1000,41,Male,163,68,Very Active,Endurance,None,None,25.59373706198954,1498.75,2585

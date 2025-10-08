@@ -1,0 +1,51 @@
+food_id,food_name,category,calories_per_100g,fat_g,protein_g,carbs_g,fiber_g,gluten_free,vegan,vegetarian,keto_friendly
+1,Apple,Fruit,52,0.3,0.2,14.0,2.4,False,True,True,True
+2,Banana,Fruit,89,0.3,1.1,23.0,2.6,False,True,True,True
+3,Orange,Fruit,47,0.1,0.9,12.0,2.4,False,True,True,True
+4,Chicken Breast,Protein,165,3.6,31.0,0.0,0.0,False,False,False,True
+5,Salmon,Protein,208,13.0,20.0,0.0,0.0,False,False,False,True
+6,Eggs,Protein,155,11.0,13.0,1.1,0.0,False,False,False,False
+7,Brown Rice,Grain,111,0.9,2.6,23.0,1.8,False,True,True,True
+8,Quinoa,Grain,120,1.9,4.4,22.0,2.8,True,True,True,True
+9,Sweet Potato,Vegetable,86,0.1,1.6,20.0,3.0,False,True,True,True
+10,Broccoli,Vegetable,34,0.4,2.8,7.0,2.6,False,True,True,True
+11,Spinach,Vegetable,23,0.4,2.9,3.6,2.2,False,True,True,True
+12,Avocado,Fruit,160,15.0,2.0,9.0,7.0,False,True,True,True
+13,Almonds,Nuts,579,50.0,21.0,22.0,12.0,True,True,False,True
+14,Greek Yogurt,Dairy,59,0.4,10.0,3.6,0.0,False,False,False,False
+15,Oats,Grain,68,1.4,2.4,12.0,1.7,False,True,True,True
+16,Tuna,Protein,144,0.6,30.0,0.0,0.0,False,False,False,True
+17,Turkey,Protein,135,1.5,29.0,0.0,0.0,False,False,False,True
+18,Lentils,Legume,116,0.4,9.0,20.0,7.9,False,True,True,True
+19,Black Beans,Legume,132,0.5,8.9,24.0,8.7,False,True,True,True
+20,Whole Wheat Bread,Grain,247,4.2,13.0,41.0,6.0,False,True,True,True
+21,Pasta,Grain,398,8.2,23.5,18.9,6.6,True,True,True,False
+22,White Rice,Vegetable,147,3.6,19.1,0.8,5.6,True,True,True,False
+23,Beef,Protein,317,18.6,20.2,8.2,2.5,True,True,True,False
+24,Pork,Grain,199,4.1,11.6,39.8,5.9,True,True,True,False
+25,Cheese,Protein,105,3.1,17.9,33.9,0.2,True,True,True,True
+26,Milk,Dairy,310,16.0,23.1,48.9,0.1,True,True,False,True
+27,Yogurt,Fruit,27,15.9,2.6,9.2,7.6,True,False,True,False
+28,Bread,Protein,376,12.3,17.6,17.1,1.1,True,True,True,False
+29,Potato,Grain,203,8.5,10.3,1.3,3.4,False,False,True,False
+30,Tomato,Grain,144,8.9,0.9,3.7,5.1,False,False,True,True
+31,Carrot,Dairy,271,16.8,15.6,32.2,0.3,False,False,True,False
+32,Onion,Dairy,276,4.1,4.9,16.9,4.2,True,True,True,True
+33,Garlic,Vegetable,342,8.0,7.8,43.3,7.5,False,True,True,False
+34,Cucumber,Fruit,385,14.3,5.7,33.6,7.0,True,False,True,True
+35,Lettuce,Dairy,264,8.7,19.8,23.1,9.4,True,True,True,False
+36,Bell Pepper,Protein,192,3.7,12.0,48.4,7.5,False,True,True,False
+37,Zucchini,Grain,135,17.1,13.9,9.9,3.2,True,True,True,True
+38,Cauliflower,Fruit,99,9.1,13.2,38.2,4.5,False,False,True,True
+39,Cabbage,Protein,305,12.2,13.7,23.4,2.9,True,True,True,False
+40,Corn,Dairy,64,11.8,2.1,41.5,5.6,True,False,True,False
+41,Peas,Dairy,299,19.2,18.0,39.4,7.0,True,True,False,False
+42,Green Beans,Dairy,189,17.0,21.2,17.8,8.3,False,True,True,True
+43,Asparagus,Grain,215,19.6,9.1,22.6,1.3,True,False,True,False
+44,Mushrooms,Grain,243,11.5,6.7,11.4,0.1,True,True,True,False
+45,Strawberries,Fruit,224,4.1,14.9,3.2,8.6,False,True,True,True
+46,Blueberries,Grain,231,8.3,7.1,10.3,6.5,True,True,True,False
+47,Grapes,Fruit,99,5.6,22.5,31.8,7.3,False,False,True,True
+48,Watermelon,Fruit,163,6.7,24.1,45.1,2.7,False,False,True,False
+49,Pineapple,Grain,194,6.0,0.9,11.0,2.8,True,True,False,False
+50,Mango,Vegetable,297,13.0,16.5,47.8,0.0,True,False,False,False

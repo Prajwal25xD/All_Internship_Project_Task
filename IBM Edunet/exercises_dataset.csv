@@ -1,0 +1,101 @@
+exercise_id,exercise_name,muscle_group,equipment,difficulty_level,duration_minutes,calories_per_minute
+1,Push-ups,Cardio,Mat,Beginner,45,4.1
+2,Pull-ups,Flexibility,Dumbbells,Beginner,60,6.4
+3,Squats,Back,Machine,Advanced,30,5.0
+4,Lunges,Chest,Barbell,Beginner,15,7.1
+5,Burpees,Shoulders,Barbell,Beginner,15,8.9
+6,Plank,Back,Bodyweight,Intermediate,45,9.5
+7,Jumping Jacks,Shoulders,Barbell,Advanced,45,4.7
+8,Mountain Climbers,Flexibility,Machine,Beginner,60,4.1
+9,Deadlifts,Arms,Mat,Advanced,45,9.0
+10,Bench Press,Legs,Cardio Equipment,Advanced,60,6.4
+11,Shoulder Press,Flexibility,Mat,Beginner,15,3.6
+12,Bicep Curls,Back,None,Advanced,60,10.5
+13,Tricep Dips,Back,None,Advanced,15,5.7
+14,Leg Press,Flexibility,None,Intermediate,60,7.6
+15,Calf Raises,Shoulders,Dumbbells,Intermediate,45,5.1
+16,Russian Twists,Flexibility,Barbell,Beginner,30,5.6
+17,Crunches,Full Body,Machine,Intermediate,60,11.8
+18,Sit-ups,Back,Dumbbells,Advanced,15,3.1
+19,Leg Raises,Full Body,Barbell,Intermediate,60,11.0
+20,High Knees,Back,None,Intermediate,30,6.9
+21,Running,Core,Machine,Beginner,30,3.5
+22,Walking,Chest,Machine,Intermediate,15,10.4
+23,Cycling,Back,None,Intermediate,30,4.4
+24,Swimming,Flexibility,Barbell,Advanced,60,9.4
+25,Rowing,Legs,Machine,Advanced,30,7.4
+26,Elliptical,Shoulders,Machine,Intermediate,15,5.0
+27,Yoga,Cardio,None,Advanced,60,3.4
+28,Pilates,Full Body,Bodyweight,Advanced,60,7.4
+29,HIIT,Full Body,Mat,Intermediate,45,3.4
+30,Boxing,Chest,Bodyweight,Beginner,15,7.0
+31,Exercise_31,Arms,Mat,Intermediate,60,11.7
+32,Exercise_32,Core,Machine,Beginner,15,5.3
+33,Exercise_33,Chest,Dumbbells,Advanced,45,3.9
+34,Exercise_34,Arms,Mat,Intermediate,45,8.4
+35,Exercise_35,Full Body,None,Beginner,45,4.0
+36,Exercise_36,Core,None,Intermediate,45,8.1
+37,Exercise_37,Core,Bodyweight,Beginner,15,6.4
+38,Exercise_38,Cardio,Barbell,Beginner,60,4.5
+39,Exercise_39,Full Body,Mat,Advanced,45,11.2
+40,Exercise_40,Cardio,Mat,Beginner,30,10.9
+41,Exercise_41,Full Body,Machine,Advanced,60,8.4
+42,Exercise_42,Shoulders,None,Beginner,30,8.4
+43,Exercise_43,Legs,Dumbbells,Beginner,30,8.7
+44,Exercise_44,Legs,Barbell,Beginner,45,4.4
+45,Exercise_45,Flexibility,Bodyweight,Intermediate,30,5.4
+46,Exercise_46,Core,None,Intermediate,45,9.2
+47,Exercise_47,Full Body,Machine,Intermediate,15,10.1
+48,Exercise_48,Legs,Cardio Equipment,Intermediate,15,4.2
+49,Exercise_49,Core,Cardio Equipment,Beginner,30,8.0
+50,Exercise_50,Back,Dumbbells,Intermediate,45,7.1
+51,Exercise_51,Flexibility,Dumbbells,Beginner,30,5.7
+52,Exercise_52,Chest,Dumbbells,Beginner,45,6.3
+53,Exercise_53,Arms,Cardio Equipment,Beginner,45,3.4
+54,Exercise_54,Flexibility,Mat,Intermediate,15,6.6
+55,Exercise_55,Core,None,Beginner,30,8.6
+56,Exercise_56,Shoulders,Dumbbells,Intermediate,45,6.0
+57,Exercise_57,Flexibility,Machine,Intermediate,30,10.4
+58,Exercise_58,Full Body,None,Advanced,60,8.5
+59,Exercise_59,Legs,Dumbbells,Intermediate,15,10.1
+60,Exercise_60,Legs,Dumbbells,Beginner,30,6.1
+61,Exercise_61,Cardio,Bodyweight,Intermediate,30,3.4
+62,Exercise_62,Legs,Machine,Intermediate,15,9.4
+63,Exercise_63,Legs,Bodyweight,Advanced,45,7.0
+64,Exercise_64,Legs,Bodyweight,Intermediate,45,9.2
+65,Exercise_65,Chest,Barbell,Beginner,60,8.8
+66,Exercise_66,Core,Machine,Advanced,60,5.3
+67,Exercise_67,Shoulders,Cardio Equipment,Beginner,30,7.3
+68,Exercise_68,Chest,Bodyweight,Beginner,45,6.9
+69,Exercise_69,Back,Bodyweight,Intermediate,15,6.0
+70,Exercise_70,Flexibility,Mat,Intermediate,60,8.3
+71,Exercise_71,Flexibility,None,Beginner,60,4.9
+72,Exercise_72,Arms,Bodyweight,Intermediate,60,7.8
+73,Exercise_73,Cardio,None,Advanced,60,11.0
+74,Exercise_74,Core,Cardio Equipment,Intermediate,30,8.0
+75,Exercise_75,Full Body,Cardio Equipment,Advanced,30,4.7
+76,Exercise_76,Chest,Machine,Advanced,30,9.9
+77,Exercise_77,Flexibility,Barbell,Advanced,45,11.7
+78,Exercise_78,Flexibility,Dumbbells,Beginner,30,9.9
+79,Exercise_79,Core,Barbell,Beginner,30,6.7
+80,Exercise_80,Legs,Dumbbells,Intermediate,60,10.4
+81,Exercise_81,Core,Bodyweight,Intermediate,45,8.7
+82,Exercise_82,Cardio,Bodyweight,Beginner,45,3.0
+83,Exercise_83,Flexibility,Cardio Equipment,Beginner,30,10.0
+84,Exercise_84,Back,Mat,Advanced,15,10.1
+85,Exercise_85,Core,Cardio Equipment,Beginner,15,11.7
+86,Exercise_86,Core,Barbell,Beginner,30,6.7
+87,Exercise_87,Legs,Dumbbells,Beginner,15,9.4
+88,Exercise_88,Core,None,Beginner,45,5.9
+89,Exercise_89,Flexibility,Barbell,Intermediate,15,4.8
+90,Exercise_90,Full Body,Barbell,Beginner,30,10.8
+91,Exercise_91,Core,Barbell,Intermediate,45,11.7
+92,Exercise_92,Back,Bodyweight,Intermediate,15,11.4
+93,Exercise_93,Cardio,Mat,Beginner,45,4.0
+94,Exercise_94,Chest,Machine,Intermediate,30,7.4
+95,Exercise_95,Cardio,None,Intermediate,30,11.8
+96,Exercise_96,Chest,Barbell,Beginner,60,3.9
+97,Exercise_97,Cardio,Bodyweight,Beginner,15,12.0
+98,Exercise_98,Full Body,Machine,Beginner,45,4.8
+99,Exercise_99,Core,Bodyweight,Intermediate,30,4.9
+100,Exercise_100,Chest,Mat,Beginner,60,8.2
